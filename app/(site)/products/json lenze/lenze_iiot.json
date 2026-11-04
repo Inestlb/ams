@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Drives Datahub",
+    "category": "Passerelles IIoT",
+    "url": "https://www.lenze.com/fr-fr/produits/iiot/routeurs-iiot/drives-datahub",
+    "header_title": "Drives DataHub",
+    "header_content": "Drives DataHub",
+    "main_content": "Le Drives DataHub est un progiciel qui établit une passerelle entre les variateurs Lenze et une interface IIoT. La gestion des processus existante fonctionne alors de manière autonome par rapport au Drives DataHub, et elle n'est donc pas affectée. Tous les variateurs classiques de Lenze peuvent être connectés sans adaptation du firmware de l'appareil. Avec une interface standardisée et indépendante du fabricant, les données du variateur sont mises à disposition d'un système maître dans la qualité requise via MQTT. Drives DataHub réalise ainsi la connexion avec tous les variateurs de la gamme de Lenze et met les données à la disposition de services logiciels maîtres tels que Asset Management ou Condition Monitoring via une interface IIoT. Points forts Couplage jusqu'à 1000 variateurs Lenze Disponible pour Linux et Windows avec technologie Docker-Container Fonction oscilloscope intégrée avec taux de balayage jusqu'à 0.125 ms Caractéristiques et données techniques Variateurs compatibles Variateur de vitesse i5xx cabinet Variateur de vitesse i5xx protec Variateur de vitesse i5xx motec Variateur de vitesse 8400 StateLine Variateur de vitesse 8400 HighLine Variateur de vitesse 8400 TopLine Variateur de vitesse 8400 protec Variateur de vitesse 8400 motec Servovariateur i950 cabinet Servovariateur 9400 HighLine Bus de terrain compatibles EtherNet/IP Modbus TCP PROFINET Current documentation and Docker Compose file",
+    "specs": {
+      "Points forts": [
+        "Couplage jusqu'à 1000 variateurs Lenze",
+        "Disponible pour Linux et Windows avec technologie Docker-Container",
+        "Fonction oscilloscope intégrée avec taux de balayage jusqu'à 0.125 ms"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Variateurs compatibles": "Variateur de vitesse i5xx cabinet\nVariateur de vitesse i5xx protec\nVariateur de vitesse i5xx motec\nVariateur de vitesse 8400 StateLine\nVariateur de vitesse 8400 HighLine\nVariateur de vitesse 8400 TopLine\nVariateur de vitesse 8400 protec\nVariateur de vitesse 8400 motec\nServovariateur i950 cabinet\nServovariateur 9400 HighLine",
+          "Bus de terrain compatibles": "EtherNet/IP\nModbus TCP\nPROFINET"
+        }
+      },
+      "Description": "Le Drives DataHub est un progiciel qui établit une passerelle entre les variateurs Lenze et une interface IIoT. La gestion des processus existante fonctionne alors de manière autonome par rapport au Drives DataHub, et elle n'est donc pas affectée. Tous les variateurs classiques de Lenze peuvent être connectés sans adaptation du firmware de l'appareil. Avec une interface standardisée et indépendante du fabricant, les données du variateur sont mises à disposition d'un système maître dans la qualité requise via MQTT. Drives DataHub réalise ainsi la connexion avec tous les variateurs de la gamme de Lenze et met les données à la disposition de services logiciels maîtres tels que Asset Management ou Condition Monitoring via une interface IIoT."
+    },
+    "regex": "Drives DataHub",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/a/csm_A04_LAN_drivedata_ee7a98f4d3.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/a/csm_A04_LAN_drivedata_7afb3e9287.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Passerelle Iot X500",
+    "category": "Passerelles IIoT",
+    "url": "https://www.lenze.com/fr-fr/produits/iiot/routeurs-iiot/passerelle-iot-x500",
+    "header_title": "Passerelle IoT x500",
+    "header_content": "Passerelle IoT x500",
+    "main_content": "Chez Lenze, nous savons que : La fabrication de machines et d'équipements industriels présente des difficultés spécifiques. Car les clients demandent des machines de plus en plus flexibles, avec une plus grande productivité et moins de temps d'indisponibilité. La maintenance à distance offre une méthode simple, sûre et fiable de se connecter à vos machines – à tout moment et n'importe où. Améliorez facilement votre maintenance, réduisez les temps d'indisponibilité et augmentez votre productivité. Par les passerelles disponibles IoT x510, x520, x530 et x540. Cela permet une connexion en ligne en accord avec le pare-feu existant. Points forts Passerelle par réseau local, WiFi ou 4G pour une intégration facile dans la périphérie de l'installation Créez vos tableaux de bord personnalisés pour un meilleur aperçu d'exploitation Connectez votre machine au cloud en quelques minutes Caractéristiques et données techniques Communication Réseau local, WiFi, 4G EtherNet/IP Raccordements 4 x LAN 1 x WAN 1 x USB 2.0 1 x entrée numérique",
+    "specs": {
+      "Points forts": [
+        "Passerelle par réseau local, WiFi ou 4G pour une intégration facile dans la périphérie de l'installation",
+        "Créez vos tableaux de bord personnalisés pour un meilleur aperçu d'exploitation",
+        "Connectez votre machine au cloud en quelques minutes"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Communication": "Réseau local, WiFi, 4G\nEtherNet/IP",
+          "Raccordements": "4 x LAN\n1 x WAN\n1 x USB 2.0\n1 x entrée numérique"
+        }
+      },
+      "Description": "Chez Lenze, nous savons que : La fabrication de machines et d'équipements industriels présente des difficultés spécifiques. Car les clients demandent des machines de plus en plus flexibles, avec une plus grande productivité et moins de temps d'indisponibilité. La maintenance à distance offre une méthode simple, sûre et fiable de se connecter à vos machines – à tout moment et n'importe où. Améliorez facilement votre maintenance, réduisez les temps d'indisponibilité et augmentez votre productivité. Par les passerelles disponibles IoT x510, x520, x530 et x540. Cela permet une connexion en ligne en accord avec le pare-feu existant."
+    },
+    "regex": "x500",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_A01_GRU_x500_IoT_Gateway_x500_4f27c049e8.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/1/csm_A01_LAN_x500_IoT_Gateway_x510_ea9b835935.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/6/csm_A01_LAN_x500_IoT_Gateway_x520_778741fe3a.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/6/csm_A01_LAN_x500_IoT_Gateway_x530_b85d202f26.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/7/csm_A01_LAN_x500_IoT_Gateway_x540_511eb4a368.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_A01_GRU_x500_IoT_Gateway_x500_274b883df9.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/1/csm_A01_LAN_x500_IoT_Gateway_x510_621cefc405.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/6/csm_A01_LAN_x500_IoT_Gateway_x520_6b13538673.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/6/csm_A01_LAN_x500_IoT_Gateway_x530_2a2f98f48f.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/7/csm_A01_LAN_x500_IoT_Gateway_x540_f5af70140e.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "X4 Remote",
+    "category": "Solutions IIoT",
+    "url": "https://www.lenze.com/fr-fr/produkte/iiot/solutions-iiot/x4-remote",
+    "header_title": "Télémaintenance X4 Remote",
+    "header_content": "Télémaintenance X4 Remote",
+    "main_content": "Chez Lenze, nous savons que : Le secteur de la fabrication de machines et d'équipements industriels se trouve devant des enjeux de numérisation particuliers. Car les clients exigent à la fois des machines toujours plus flexibles, et plus de productivité. Vous voulez pouvoir vous fier à vos machines et pouvoir anticiper rapidement pour éviter d'éventuelles pannes de machines et les arrêts de production qui en résultent ? C'est précisément ici qu'intervient X4 Remote. Notre plateforme basée sur le cloud pour l'accès à distance et la surveillance d'état vous permet d'accéder à l’état et à toutes les données de vos machines, où que vous soyez et via tous les appareils pouvant se connecter à internet. Points forts Accès à distance via VPN – Réalisez votre maintenance, votre surveillance et vos détections des erreurs comme si vous étiez sur site. Accès sans client – Accès à votre machine via tous les appareils pouvant se connecter à internet à partir d'un portail web optimisé pour les appareils mobiles. Cloud Logging – Les données de vos machines sont stockées dans le cloud de manière fiable par X4 Remote, même en cas d'interruption de la connexion internet. Cloud Notify – X4 Remote vous informe, et vous décidez quand réagir ! Des seuils réglables vous permettent de déterminer exactement quand une notification doit vous être envoyée.",
+    "specs": {
+      "Points forts": [
+        "Accès à distance via VPN – Réalisez votre maintenance, votre surveillance et vos détections des erreurs comme si vous étiez sur site.",
+        "Accès sans client – Accès à votre machine via tous les appareils pouvant se connecter à internet à partir d'un portail web optimisé pour les appareils mobiles.",
+        "Cloud Logging – Les données de vos machines sont stockées dans le cloud de manière fiable par X4 Remote, même en cas d'interruption de la connexion internet.",
+        "Cloud Notify – X4 Remote vous informe, et vous décidez quand réagir ! Des seuils réglables vous permettent de déterminer exactement quand une notification doit vous être envoyée."
+      ],
+      "Description": "Chez Lenze, nous savons que : Le secteur de la fabrication de machines et d'équipements industriels se trouve devant des enjeux de numérisation particuliers. Car les clients exigent à la fois des machines toujours plus flexibles, et plus de productivité. Vous voulez pouvoir vous fier à vos machines et pouvoir anticiper rapidement pour éviter d'éventuelles pannes de machines et les arrêts de production qui en résultent ? C'est précisément ici qu'intervient X4 Remote. Notre plateforme basée sur le cloud pour l'accès à distance et la surveillance d'état vous permet d'accéder à l’état et à toutes les données de vos machines, où que vous soyez et via tous les appareils pouvant se connecter à internet."
+    },
+    "regex": "X4 Remote",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/9/csm_A02_LAN_x4_Remote_Service_Plattform_x4_860766c98e.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/f/csm_A02_csm_Lenze_IoT_Gataway_in_use_0000014908_1440x1440px_da988de21c_99bc579ca1.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/9/csm_A02_LAN_x4_Remote_Service_Plattform_x4_df74752922.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/f/csm_A02_csm_Lenze_IoT_Gataway_in_use_0000014908_1440x1440px_da988de21c_ce99c9e74d.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Oee Downtime Tracking",
+    "category": "Solutions IIoT",
+    "url": "https://www.lenze.com/fr-fr/produkte/iiot/solutions-iiot/oee-downtime-tracking",
+    "header_title": "OEE & Downtime Tracking",
+    "header_content": "OEE & Downtime Tracking",
+    "main_content": "Disponibilité, performance et qualité sont des facteurs qui permettent de définir le taux de rendement global (OEE pour Overall Equipment Effectiveness). Pour évaluer ces trois facteurs des machines dans un processus de fabrication, l'exploitant doit pouvoir avoir accès aux données correspondantes des composants et des machines. C'est précisément ici qu'intervient Lenze. Notre OEE & Downtime Tracking assure la transparence du processus de fabrication, et cela sans équipement ni capteur supplémentaires. D’où une réduction des temps d'arrêt des machines et une optimisation des temps de cycle. Points forts Le calcul du taux de rendement global se fait dans la commande Données en temps réel sans connexion au cloud Historique des données avec connexion au cloud disponible Les résultats se visualisent sur des tableaux de bord préconfigurés Communication à l'épreuve du temps via OPC UA et MQTT",
+    "specs": {
+      "Points forts": [
+        "Le calcul du taux de rendement global se fait dans la commande",
+        "Données en temps réel sans connexion au cloud",
+        "Historique des données avec connexion au cloud disponible",
+        "Les résultats se visualisent sur des tableaux de bord préconfigurés",
+        "Communication à l'épreuve du temps via OPC UA et MQTT"
+      ],
+      "Description": "Disponibilité, performance et qualité sont des facteurs qui permettent de définir le taux de rendement global (OEE pour Overall Equipment Effectiveness). Pour évaluer ces trois facteurs des machines dans un processus de fabrication, l'exploitant doit pouvoir avoir accès aux données correspondantes des composants et des machines. C'est précisément ici qu'intervient Lenze. Notre OEE & Downtime Tracking assure la transparence du processus de fabrication, et cela sans équipement ni capteur supplémentaires. D’où une réduction des temps d'arrêt des machines et une optimisation des temps de cycle."
+    },
+    "regex": "OEE & Downtime",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/a/csm_A05_LAN_oee_893bf764b2.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/a/csm_A05_LAN_oee_35f0aaa90e.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Nupano",
+    "category": "Solutions IIoT",
+    "url": "https://www.lenze.com/fr-fr/produkte/iiot/solutions-iiot/nupano",
+    "header_title": "NUPANO",
+    "header_content": "NUPANO",
+    "main_content": "La plateforme intelligente NUPANO Open Automation permet l'intégration, la gestion et la protection d'applications technologiques innovantes conçues sur mesure pour vos machines. Vous avez ainsi toujours une longueur d'avance sur vos concurrents. En effet, seules les applications privées vous apportent un avantage sur la concurrence. Avec NUPANO, vous gardez en permanence un aperçu de l'état de votre logiciel machine : que ce soit pour une machine ou pour 500 machines. NUPANO est basé sur des interfaces IT établies. Cela signifie pour vous : Vos applications technologiques se programment facilement sur des standards courants, se testent si besoin et se transfèrent ensuite sans effort sur notre plateforme Open Automation. De plus, ils vous permettent d'accéder à plus de 100 000 programmes, par exemple sur Docker Hub. Vous gagnez du temps et de l’argent ! Points forts Des innovations pendant toute la durée de vie de la machine Les mises à niveau peuvent être effectuées par les techniciens du service technique Le savoir-faire reste dans la société Fonctionnement autonome, pas de connexion au cloud ni de données de connexion requises Intégration simple dans l'infrastructure IT existante En savoir plus",
+    "specs": {
+      "Points forts": [
+        "Des innovations pendant toute la durée de vie de la machine",
+        "Les mises à niveau peuvent être effectuées par les techniciens du service technique",
+        "Le savoir-faire reste dans la société",
+        "Fonctionnement autonome, pas de connexion au cloud ni de données de connexion requises",
+        "Intégration simple dans l'infrastructure IT existante"
+      ],
+      "Description": "La plateforme intelligente NUPANO Open Automation permet l'intégration, la gestion et la protection d'applications technologiques innovantes conçues sur mesure pour vos machines. Vous avez ainsi toujours une longueur d'avance sur vos concurrents. En effet, seules les applications privées vous apportent un avantage sur la concurrence. Avec NUPANO, vous gardez en permanence un aperçu de l'état de votre logiciel machine : que ce soit pour une machine ou pour 500 machines. NUPANO est basé sur des interfaces IT établies. Cela signifie pour vous : Vos applications technologiques se programment facilement sur des standards courants, se testent si besoin et se transfèrent ensuite sans effort sur notre plateforme Open Automation. De plus, ils vous permettent d'accéder à plus de 100 000 programmes, par exemple sur Docker Hub. Vous gagnez du temps et de l’argent !"
+    },
+    "regex": "NUPANO",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/b/csm_A07_LAN_NUPANO_0e90806065.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/b/csm_A07_LAN_NUPANO_b8a3c7b3dd.webp",
+        "alt": ""
+      }
+    ]
+  }
+]

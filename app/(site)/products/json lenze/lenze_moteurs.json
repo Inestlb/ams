@@ -1,0 +1,616 @@
+[
+  {
+    "name": "Ie3 M500 I550 Motec",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-ie2/ie3-m500-i550-motec",
+    "header_title": "Moteurs triphasés IE2/IE3 m500 + i550 motec",
+    "header_content": "Moteurs triphasés IE2/IE3 m500 + i550 motec",
+    "main_content": "Avec leur variateur de vitesse i550 motec intégré, les moteurs triphasés IE2 à haut rendement m550-H couvrent la plage de puissance de 0.25 à 0.55 kW. Avec leur variateur de vitesse i550 motec intégré, les moteurs triphasés IE3 à rendement Premium m550-P couvrent la plage de puissance de 0.75 à 5.5 kW. Points forts Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays Une conception modulaire évolutive pour une adaptation optimale aux exigences machines Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500 Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 5.5 kW 1.7 ... 35 Nm Version B3 B5 B14 Bouclage Sans Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays",
+        "Une conception modulaire évolutive pour une adaptation optimale aux exigences machines",
+        "Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide",
+        "La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle",
+        "Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 5.5 kW\n1.7 ... 35 Nm",
+          "Version": "B3\nB5\nB14",
+          "Bouclage": "Sans\nCodeur incrémental"
+        }
+      },
+      "Description": "Avec leur variateur de vitesse i550 motec intégré, les moteurs triphasés IE2 à haut rendement m550-H couvrent la plage de puissance de 0.25 à 0.55 kW. Avec leur variateur de vitesse i550 motec intégré, les moteurs triphasés IE3 à rendement Premium m550-P couvrent la plage de puissance de 0.75 à 5.5 kW."
+    },
+    "regex": "m500",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/f/csm_E15_LAN_m500_i550_motec_453079586f.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/f/csm_E15_LAN_m500_i550_motec_969824a4b2.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Moteurs Triphases Mf I550 Motec",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-mf-i550-motec",
+    "header_title": "Moteurs triphasés MF + i550 motec",
+    "header_content": "Moteurs triphasés MF + i550 motec",
+    "main_content": "Les moteurs triphasés MF écoénergétiques, optimisés pour variateurs de vitesse, couvrent avec leur variateur de vitesse i550 motec intégré une plage de puissance de 0.55 à 22 kW, et sont particulièrement adaptés aux tâches qui nécessitent de grandes plages de réglage avec un encombrement réduit. Points forts Surpassent la classe d'efficacité énergétique IE2 Plage de réglage de vitesse jusqu'à 1:24 à couple constant Plus dynamiques que des moteurs triphasés classiques La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500 Caractéristiques et données techniques Caractéristiques techniques 0.55 ... 22 kW 1.5 ... 60 Nm Version B3 B5 B9 B14 Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Surpassent la classe d'efficacité énergétique IE2",
+        "Plage de réglage de vitesse jusqu'à 1:24 à couple constant",
+        "Plus dynamiques que des moteurs triphasés classiques",
+        "La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle",
+        "Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.55 ... 22 kW\n1.5 ... 60 Nm",
+          "Version": "B3\nB5\nB9\nB14",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les moteurs triphasés MF écoénergétiques, optimisés pour variateurs de vitesse, couvrent avec leur variateur de vitesse i550 motec intégré une plage de puissance de 0.55 à 22 kW, et sont particulièrement adaptés aux tâches qui nécessitent de grandes plages de réglage avec un encombrement réduit."
+    },
+    "regex": "MF",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/c/csm_E16_LAN_MF_i550_motec_63754af416.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/c/csm_E16_LAN_MF_i550_motec_b6765057f4.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Ie3 M500",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-ie2/ie3-m500",
+    "header_title": "Moteurs triphasés IE2/IE3 m500",
+    "header_content": "Moteurs triphasés IE2/IE3 m500",
+    "main_content": "Avec les moteurs triphasés m550 et m540, nous vous proposons une solution d'entraînement conforme aux standards industriels de demain pour votre machine. Ils répondent de plus aux exigences légales des zones les plus importantes du monde, telles que les États-Unis, l'Europe et l'Asie. Les moteurs triphasés IE2 m550-H couvrent une plage de puissance de 0.12 à 0.55 kW et ont un rendement élevé tel que défini pour l'IE2. Les moteurs triphasés IE3 m550-P couvrent une plage de puissance de 0.75 à 22 kW et ont un rendement Premium tel que défini pour l'IE3. Les moteurs triphasés IE3 m540-P couvrent une plage de puissance de 30 à 55 kW et ont un rendement Premium tel que défini pour l'IE3. Points forts Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays Une conception modulaire évolutive pour une adaptation optimale aux exigences machines Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide Optimisé pour une utilisation comme motoréducteur avec les réducteurs g500 et les variateurs de vitesse i510 cabinet, i550 cabinet et i550 protec Caractéristiques et données techniques Caractéristiques techniques 0.12 ... 55 kW 1 ... 142 Nm Version B3 B5 B9 B14 Bouclage Sans Résolveur Codeur absolu Codeur incrémental Codeur incrémental avec fonctions de sécurité Sur quasiment tous les marchés, il y a des exigences en matière de rendement minimal pour les moteurs triphasés. Nous avons rassemblé pour vous, de manière claire, ces exigences spécifiques aux différents pays, et vous pouvez les télécharger ici : Directive-écoconception",
+    "specs": {
+      "Points forts": [
+        "Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays",
+        "Une conception modulaire évolutive pour une adaptation optimale aux exigences machines",
+        "Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide",
+        "Optimisé pour une utilisation comme motoréducteur avec les réducteurs g500 et les variateurs de vitesse i510 cabinet, i550 cabinet et i550 protec"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.12 ... 55 kW\n1 ... 142 Nm",
+          "Version": "B3\nB5\nB9\nB14",
+          "Bouclage": "Sans\nRésolveur\nCodeur absolu\nCodeur incrémental\nCodeur incrémental avec fonctions de sécurité"
+        }
+      },
+      "Description": "Avec les moteurs triphasés m550 et m540, nous vous proposons une solution d'entraînement conforme aux standards industriels de demain pour votre machine. Ils répondent de plus aux exigences légales des zones les plus importantes du monde, telles que les États-Unis, l'Europe et l'Asie. Les moteurs triphasés IE2 m550-H couvrent une plage de puissance de 0.12 à 0.55 kW et ont un rendement élevé tel que défini pour l'IE2. Les moteurs triphasés IE3 m550-P couvrent une plage de puissance de 0.75 à 22 kW et ont un rendement Premium tel que défini pour l'IE3. Les moteurs triphasés IE3 m540-P couvrent une plage de puissance de 30 à 55 kW et ont un rendement Premium tel que défini pour l'IE3."
+    },
+    "regex": "m500",
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/2/csm_E02_LAN_m500_IE2_IE3_Drehstrommot_276e45781e.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/7/csm_E02_GRU_m500_IE2_IE3_Drehstrommot_4183b94e66.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/2/csm_E02_LAN_m500_IE2_IE3_Drehstrommot_50dea70f3a.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/7/csm_E02_GRU_m500_IE2_IE3_Drehstrommot_7e534621e1.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Moteurs Triphases Mf",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-mf",
+    "header_title": "Moteurs triphasés MF",
+    "header_content": "Moteurs triphasés MF",
+    "main_content": "Les moteurs triphasés MF à faible consommation d'énergie, optimisés pour variateurs de vitesse, sont particulièrement adaptés pour des applications nécessitant de grandes plages de réglage de vitesse et avec un encombrement réduit. Points forts Surpassent la classe d'efficacité énergétique IE2 Moteurs 4 pôles dans les formes de construction B3, B5 et B14 Plage de réglage de vitesse jusqu'à 1:24 à couple constant Plus dynamiques que des moteurs triphasés classiques Optimisé pour une utilisation comme motoréducteur avec les réducteurs g500 et les variateurs de vitesse i510 cabinet, i550 cabinet et i550 protec Caractéristiques et données techniques Caractéristiques techniques 0.55 ... 22 kW 1 ... 60 Nm Version B3 B5 B9 B14 Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Surpassent la classe d'efficacité énergétique IE2",
+        "Moteurs 4 pôles dans les formes de construction B3, B5 et B14",
+        "Plage de réglage de vitesse jusqu'à 1:24 à couple constant",
+        "Plus dynamiques que des moteurs triphasés classiques",
+        "Optimisé pour une utilisation comme motoréducteur avec les réducteurs g500 et les variateurs de vitesse i510 cabinet, i550 cabinet et i550 protec"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.55 ... 22 kW\n1 ... 60 Nm",
+          "Version": "B3\nB5\nB9\nB14",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les moteurs triphasés MF à faible consommation d'énergie, optimisés pour variateurs de vitesse, sont particulièrement adaptés pour des applications nécessitant de grandes plages de réglage de vitesse et avec un encombrement réduit."
+    },
+    "regex": "MF",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/2/csm_E03_LAN_MF_Drehstrommot_3b007a80c5.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/2/csm_E03_GRU_MF_Drehstrommot_a92cff7565.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/2/csm_E03_LAN_MF_Drehstrommot_006f98b50f.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/2/csm_E03_GRU_MF_Drehstrommot_a303bc3367.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Ie3 M500 8400 Motec",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-ie2/ie3-m500-8400-motec",
+    "header_title": "Moteurs triphasés IE2/IE3 m500 + 8400 motec",
+    "header_content": "Moteurs triphasés IE2/IE3 m500 + 8400 motec",
+    "main_content": "Avec leur variateur de vitesse 8400 motec intégré, les moteurs triphasés IE2 à haut rendement m550-H couvrent la plage de puissance de 0.12 à 0.55 kW. Avec leur variateur de vitesse 8400 motec intégré, les moteurs triphasés IE3 à rendement Premium m550-P couvrent la plage de puissance de 0.75 à 7.5 kW. Points forts Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays Une conception modulaire évolutive pour une adaptation optimale aux exigences machines Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500 Caractéristiques et données techniques Caractéristiques techniques 0.12 ... 7.5 kW 1.5 ... 50 Nm Version B3 B5 B9 B14 Bouclage Sans Résolveur Codeur absolu Codeur incrémental Codeur incrémental avec fonctions de sécurité",
+    "specs": {
+      "Points forts": [
+        "Des classes d'efficacité énergétique pour une utilisation économique et durable dans de nombreuses applications et une multitude de pays",
+        "Une conception modulaire évolutive pour une adaptation optimale aux exigences machines",
+        "Raccordement facile par boîte à bornes ou connecteur standard pour une mise en service rapide",
+        "La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle",
+        "Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.12 ... 7.5 kW\n1.5 ... 50 Nm",
+          "Version": "B3\nB5\nB9\nB14",
+          "Bouclage": "Sans\nRésolveur\nCodeur absolu\nCodeur incrémental\nCodeur incrémental avec fonctions de sécurité"
+        }
+      },
+      "Description": "Avec leur variateur de vitesse 8400 motec intégré, les moteurs triphasés IE2 à haut rendement m550-H couvrent la plage de puissance de 0.12 à 0.55 kW. Avec leur variateur de vitesse 8400 motec intégré, les moteurs triphasés IE3 à rendement Premium m550-P couvrent la plage de puissance de 0.75 à 7.5 kW."
+    },
+    "regex": "m500",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/d/csm_E04_LAN_m500_8400_motec_IE2_IE3_Drehstrommot_1d61bf1a2d.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/d/csm_E04_LAN_m500_8400_motec_IE2_IE3_Drehstrommot_f39de3a15e.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Moteurs Triphases Mf 8400 Motec",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/moteurs-triphases-mf-8400-motec",
+    "header_title": "Moteurs triphasés MF + 8400 motec",
+    "header_content": "Moteurs triphasés MF + 8400 motec",
+    "main_content": "Les moteurs triphasés MF écoénergétiques, optimisés pour variateurs de vitesse, couvrent avec leur variateur de vitesse 8400 motec intégré une plage de puissance de 0.55 à 7.5 kW, et sont particulièrement adaptés aux tâches qui nécessitent de grandes plages de réglage avec un encombrement réduit. Points forts Surpassent la classe d'efficacité énergétique IE2 Plage de réglage de vitesse jusqu'à 1:24 à couple constant Plus dynamiques que des moteurs triphasés classiques La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500 Caractéristiques et données techniques Caractéristiques techniques 0.55 ... 7.5 kW 1.5 ... 20 Nm Version B3 B5 B9 B14 Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Surpassent la classe d'efficacité énergétique IE2",
+        "Plage de réglage de vitesse jusqu'à 1:24 à couple constant",
+        "Plus dynamiques que des moteurs triphasés classiques",
+        "La commande en vitesse par le variateur de vitesse intégré permet une utilisation universelle",
+        "Optimisée pour une utilisation en tant que motoréducteur avec les réducteurs g500"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.55 ... 7.5 kW\n1.5 ... 20 Nm",
+          "Version": "B3\nB5\nB9\nB14",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les moteurs triphasés MF écoénergétiques, optimisés pour variateurs de vitesse, couvrent avec leur variateur de vitesse 8400 motec intégré une plage de puissance de 0.55 à 7.5 kW, et sont particulièrement adaptés aux tâches qui nécessitent de grandes plages de réglage avec un encombrement réduit."
+    },
+    "regex": "MF",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/4/csm_E05_LAN_MF_8400_motec_Drehstrommot_5e2f64ecb2.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/4/csm_E05_LAN_MF_8400_motec_Drehstrommot_7bf15b1187.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Lenze Smart Motor M300",
+    "category": "Moteurs triphasés",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/moteurs-triphases/lenze-smart-motor-m300",
+    "header_title": "Lenze Smart Motor m300",
+    "header_content": "Lenze Smart Motor m300",
+    "main_content": "Lenze Smart Motor peut réduire le nombre de versions d'entraînements jusqu'à moins 70 %. Sans contacteur, ni démarreur, et avec des vitesses fixes librement réglables, de nombreuses fonctions intégrées disponibles pour les systèmes de convoyage. Satisfaisant en outre aux exigences d'efficacité énergétique de demain, le Lenze Smart Motor offre de plus la possibilité d'un réglage convivial à l'aide d'un smartphone. Points forts La vitesse librement réglable permet de réduire le nombre de versions Fonction de démarrage progressif intégrée Câblage réduit grâce aux fonctions de contacteur électronique et de protection du moteur Formes de construction B3, B5 et B14 Peut être associé avec les réducteurs g500 Caractéristiques et données techniques Caractéristiques techniques 0.47 kW / 1.36 kW 1.75 Nm / 5 Nm Version B3 B5 B9 B14",
+    "specs": {
+      "Points forts": [
+        "La vitesse librement réglable permet de réduire le nombre de versions",
+        "Fonction de démarrage progressif intégrée",
+        "Câblage réduit grâce aux fonctions de contacteur électronique et de protection du moteur",
+        "Formes de construction B3, B5 et B14",
+        "Peut être associé avec les réducteurs g500"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.47 kW / 1.36 kW\n1.75 Nm / 5 Nm",
+          "Version": "B3\nB5\nB9\nB14"
+        }
+      },
+      "Description": "Lenze Smart Motor peut réduire le nombre de versions d'entraînements jusqu'à moins 70 %. Sans contacteur, ni démarreur, et avec des vitesses fixes librement réglables, de nombreuses fonctions intégrées disponibles pour les systèmes de convoyage. Satisfaisant en outre aux exigences d'efficacité énergétique de demain, le Lenze Smart Motor offre de plus la possibilité d'un réglage convivial à l'aide d'un smartphone."
+    },
+    "regex": "m300",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/3/csm_E01_LAN_m300_Lenze_Smart_Motor_m300_88a713c350.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/3/csm_E01_LAN_m300_Lenze_Smart_Motor_m300_7274773502.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servomoteurs Synchrones Mcs",
+    "category": "Servomoteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/servomoteurs/servomoteurs-synchrones-mcs",
+    "header_title": "Servomoteurs synchrones MCS",
+    "header_content": "Servomoteurs synchrones MCS",
+    "main_content": "Les servomoteurs synchrones MCS sont particulièrement adaptés pour les applications nécessitant une dynamique élevée, une grande précision et avec un encombrement réduit. Points forts Capacité de surcharge élevée Fortes accélérations angulaires Connecteurs enfichables pour une installation rapide et une maintenance simple Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0 Combinables avec les servovariateurs i700 cabinet et i950 cabinet Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 15.8 kW 0.8 ... 86 Nm Version B5 Bouclage Résolveur Codeur absolu Codeur incrémental Codeur absolu numérique pour technologie monocâble (OCT) Supplément-pour-hausse-du-prix-des-matières-premières",
+    "specs": {
+      "Points forts": [
+        "Capacité de surcharge élevée",
+        "Fortes accélérations angulaires",
+        "Connecteurs enfichables pour une installation rapide et une maintenance simple",
+        "Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0",
+        "Combinables avec les servovariateurs i700 cabinet et i950 cabinet"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 15.8 kW\n0.8 ... 86 Nm",
+          "Version": "B5",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental\nCodeur absolu numérique pour technologie monocâble (OCT)"
+        }
+      },
+      "Description": "Les servomoteurs synchrones MCS sont particulièrement adaptés pour les applications nécessitant une dynamique élevée, une grande précision et avec un encombrement réduit."
+    },
+    "regex": "MCS",
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/e/csm_E12_LAN_MCS_Servo_Synchronmot_MCS_45bafc1f53.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/e/csm_E12_LAN_MCS_Servo_Synchronmot_MCS_76a3182f4a.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servomoteurs Synchrones M850",
+    "category": "Servomoteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/servomoteurs/servomoteurs-synchrones-m850",
+    "header_title": "Servomoteurs synchrones m850",
+    "header_content": "Servomoteurs synchrones m850",
+    "main_content": "Les servomoteurs synchrones compacts m850 sont particulièrement adaptés aux applications qui nécessitent une dynamique moyenne en même temps qu'un comportement d'entraînement robuste, par exemple dans le domaine du positionnement, de la robotique et des techniques d'emballage ainsi que pour les systèmes de manutention. Combinés à nos servovariateurs, ils constituent des solutions d'entraînement puissantes. Points forts Construction compacte Régulation facile grâce à un rapport favorable entre l'inertie de masse de la charge et du moteur Caractéristiques de rotation optimales pour des résultats très précis Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0 Combinables avec les servovariateurs i700 cabinet et i950 cabinet Caractéristiques et données techniques Caractéristiques techniques 0.11 ... 9.2 kW 0.18 ... 67 Nm Bouclage Codeur absolu numérique pour technologie monocâble (OCT) Résolveur Codeur absolu Supplément_pour_hausse_du_prix_des_matières_premières",
+    "specs": {
+      "Points forts": [
+        "Construction compacte",
+        "Régulation facile grâce à un rapport favorable entre l'inertie de masse de la charge et du moteur",
+        "Caractéristiques de rotation optimales pour des résultats très précis",
+        "Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0",
+        "Combinables avec les servovariateurs i700 cabinet et i950 cabinet"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.11 ... 9.2 kW\n0.18 ... 67 Nm",
+          "Bouclage": "Codeur absolu numérique pour technologie monocâble (OCT)\nRésolveur\nCodeur absolu"
+        }
+      },
+      "Description": "Les servomoteurs synchrones compacts m850 sont particulièrement adaptés aux applications qui nécessitent une dynamique moyenne en même temps qu'un comportement d'entraînement robuste, par exemple dans le domaine du positionnement, de la robotique et des techniques d'emballage ainsi que pour les systèmes de manutention. Combinés à nos servovariateurs, ils constituent des solutions d'entraînement puissantes."
+    },
+    "regex": "m850",
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/4/csm_E11_LAN_m850_2_62a44cf438.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/f/csm_E11_LAN_m850_Servo_Synchronmot_m850_2059027ee1.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/d/csm_E11_LAN_m850_3_8703c41a9c.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/4/csm_E11_LAN_m850_2_a54ce2cff7.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/f/csm_E11_LAN_m850_Servo_Synchronmot_m850_17520a1b10.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/d/csm_E11_LAN_m850_3_0cbfda56e0.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servomoteurs Asynchrones Sdsga",
+    "category": "Servomoteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/servomoteurs/servomoteurs-asynchrones-sdsga",
+    "header_title": "Servomoteurs asynchrones SDSGA",
+    "header_content": "Servomoteurs asynchrones SDSGA",
+    "main_content": "Les petits servomoteurs asynchrones SDSGA à surface lisse sont particulièrement adaptés aux environnements dans lesquels l'hygiène est importante. Points forts Surface lisse Connecteurs enfichables pour une installation rapide et une maintenance simple Résolveur pour le bouclage Optimisés pour une utilisation avec les servovariateurs i950 cabinet Caractéristiques et données techniques Caractéristiques techniques 0.075 ... 0.6 kW 0.3 ... 2.2 Nm Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Surface lisse",
+        "Connecteurs enfichables pour une installation rapide et une maintenance simple",
+        "Résolveur pour le bouclage",
+        "Optimisés pour une utilisation avec les servovariateurs i950 cabinet"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.075 ... 0.6 kW\n0.3 ... 2.2 Nm",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les petits servomoteurs asynchrones SDSGA à surface lisse sont particulièrement adaptés aux environnements dans lesquels l'hygiène est importante."
+    },
+    "regex": "SDSGA",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/7/csm_E10_LAN_SDSGA_Servo_Asynchronmot_SDSGA_b1ede743e1.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/7/csm_E10_LAN_SDSGA_Servo_Asynchronmot_SDSGA_6d80ecd311.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servomoteurs Asynchrones Mca",
+    "category": "Servomoteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/servomoteurs/servomoteurs-asynchrones-mca",
+    "header_title": "Servomoteurs asynchrones MCA",
+    "header_content": "Servomoteurs asynchrones MCA",
+    "main_content": "Les servomoteurs asynchrones MCA sont particulièrement adaptés pour les environnements exigeant un encombrement réduit et une sûreté de fonctionnement constructive élevée. Points forts Faible encombrement Faibles moments d'inertie Connecteurs enfichables pour une installation rapide et une maintenance simple Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0 Combinables avec les servovariateurs i700 cabinet et i950 cabinet Caractéristiques et données techniques Caractéristiques techniques 0.8 ... 53.8 kW 2.3 ... 290 Nm Version B3 B5 B14 B35 Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Faible encombrement",
+        "Faibles moments d'inertie",
+        "Connecteurs enfichables pour une installation rapide et une maintenance simple",
+        "Optimisés pour une utilisation en tant que motoréducteurs avec les réducteurs g500, g7x0 et g8x0",
+        "Combinables avec les servovariateurs i700 cabinet et i950 cabinet"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.8 ... 53.8 kW\n2.3 ... 290 Nm",
+          "Version": "B3\nB5\nB14\nB35",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les servomoteurs asynchrones MCA sont particulièrement adaptés pour les environnements exigeant un encombrement réduit et une sûreté de fonctionnement constructive élevée."
+    },
+    "regex": "MCA",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/6/csm_E13_LAN_MCA_Servo-Asynchronmot_MCA_ada9220330.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/6/csm_E13_LAN_MCA_Servo-Asynchronmot_MCA_29a7030d22.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servomoteurs Asynchrones Mqa",
+    "category": "Servomoteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/servomoteurs/servomoteurs-asynchrones-mqa",
+    "header_title": "Servomoteurs asynchrones MQA",
+    "header_content": "Servomoteurs asynchrones MQA",
+    "main_content": "Les servomoteurs asynchrones MQA avec ventilateur radial sont particulièrement adaptés aux applications avec des sollicitations moteur importantes. Points forts Faibles moments d'inertie Connecteurs enfichables pour une installation rapide et une maintenance simple Plaque signalétique électronique pour une mise en service facile Combinables avec les servovariateurs i700 cabinet et i950 cabinet Caractéristiques et données techniques Caractéristiques techniques 10.6 ... 60.2 kW 76 ... 325 Nm Version B3 B35 Bouclage Résolveur Codeur absolu Codeur incrémental",
+    "specs": {
+      "Points forts": [
+        "Faibles moments d'inertie",
+        "Connecteurs enfichables pour une installation rapide et une maintenance simple",
+        "Plaque signalétique électronique pour une mise en service facile",
+        "Combinables avec les servovariateurs i700 cabinet et i950 cabinet"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "10.6 ... 60.2 kW\n76 ... 325 Nm",
+          "Version": "B3\nB35",
+          "Bouclage": "Résolveur\nCodeur absolu\nCodeur incrémental"
+        }
+      },
+      "Description": "Les servomoteurs asynchrones MQA avec ventilateur radial sont particulièrement adaptés aux applications avec des sollicitations moteur importantes."
+    },
+    "regex": "MQA",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/8/csm_E14_LAN_MQA_Servo-Asynchronmot_MQA_e3037cade7.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/8/csm_E14_LAN_MQA_Servo-Asynchronmot_MQA_b856130744.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Mcm",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/mcm",
+    "header_title": "Servomoteurs synchrones MCM",
+    "header_content": "Servomoteurs synchrones MCM",
+    "main_content": "Dynamique moyenne dans un design compact. Le servomoteur synchrone compact MCM pour les applications de positionnement, robotique, technologie d'emballage et systèmes de manutention. Plage de couple : 0,6 à 26,4 Nm. Plage de puissance : 0,19 à 2,5 kW",
+    "specs": {
+      "Description": "Servomoteur synchrone compact MCM pour les applications de positionnement, robotique, technologie d'emballage et systèmes de manutention. Plage de couple : 0,6 à 26,4 Nm. Plage de puissance : 0,19 à 2,5 kW."
+    },
+    "regex": "MCM",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/f/csm_Lenze_Servo_Motors_MCM_0000005811_1440x1440_ddc247c6ab.webp",
+        "alt": "Servomoteurs synchrones Lenze MCM"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/f/csm_Lenze_Servo_Motors_MCM_0000005811_1440x1440_30b295269e.webp",
+        "alt": "Servomoteurs synchrones Lenze MCM"
+      }
+    ]
+  },
+  {
+    "name": "Mdfqa",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/mdfqa",
+    "header_title": "Servomoteurs asynchrones MDFQA",
+    "header_content": "Servomoteurs asynchrones MDFQA",
+    "main_content": "Moteurs ventilés fermés dans la plage de puissance : 22,6 à 95 kW. Ventilés fermés, longue durée de vie, large plage de contrôle de vitesse et couples jusqu'à 1 400 Nm. Les moteurs ventilés fermés de la gamme MDFQA sont conçus pour un fonctionnement continu avec un couple élevé. Grâce à leur dimensionnement généreux, leurs roulements et leur structure de bobinage spéciale, ils garantissent une longue durée de vie et des performances opérationnelles optimales dans toutes les situations d'entraînement. Les moteurs offrent des valeurs de couple nominal jusqu'à 434 Nm et des valeurs de couple de pointe jusqu'à 1 400 Nm dans une plage de puissance entre 22,6 kW et 95 kW. Ils sont compacts, offrent une protection IP23 et ont été spécialement développés pour un fonctionnement avec les variateurs de fréquence et servovariateurs Lenze. Un large spectre de versions couvre une grande variété d'applications. La large plage d'affaiblissement de champ avec des niveaux de couple en réserve permet également un fonctionnement continu jusqu'à des vitesses élevées.",
+    "specs": {
+      "Description": "Moteurs ventilés fermés dans la plage de puissance : 22,6 à 95 kW. Moteurs conçus pour un fonctionnement continu avec un couple élevé, garantissant une longue durée de vie et des performances opérationnelles optimales."
+    },
+    "regex": "MDFQA",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/2/csm_Lenze_Servo_Motors_MDFQA_0000001883_1440x1440_01_8101e1d86b.webp",
+        "alt": "Servomoteurs asynchrones Lenze MDFQA"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/2/csm_Lenze_Servo_Motors_MDFQA_0000001883_1440x1440_01_90a8d0d2c9.webp",
+        "alt": "Servomoteurs asynchrones Lenze MDFQA"
+      }
+    ]
+  },
+  {
+    "name": "M550 P",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/m550-p",
+    "header_title": "Moteurs triphasés IE3 m550-P pour fonctionnement avec variateur",
+    "header_content": "Moteurs triphasés IE3 m550-P pour fonctionnement avec variateur",
+    "main_content": "Efficaces pour les tâches machine basiques et avancées. Moteur triphasé m550-P à haut rendement énergétique (IE3) pour des mouvements constants et variables. Plage de puissance : 0,75 à 45 kW. Plage de couple : 4,9 à 290 Nm. Convient pour un fonctionnement avec variateur et un fonctionnement sur secteur économe en énergie. Avantages : Rendement énergétique IE3. Moteurs quatre pôles dans les versions B3, B5 et B14. Plage de réglage jusqu'à 1:17,4 avec couple constant. Protection IP55. Options de connexion : boîte à bornes, prise HAN et prise ICN. Surveillance de température. Système modulaire pour adapter les fonctions à votre application. Systèmes de retour. Freins de service et de maintien. Ventilateurs intégrés et soufflantes.",
+    "specs": {
+      "Description": "Moteur triphasé m550-P à haut rendement énergétique (IE3) pour des mouvements constants et variables. Convient pour un fonctionnement avec variateur et un fonctionnement sur secteur économe en énergie."
+    },
+    "regex": "m550-P",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/5/csm_Lenze_Drehstrommotoren_Gruppe_1440x1440px_bae39019eb.webp",
+        "alt": "Moteurs triphasés Lenze"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/0/csm_Lenze_Getriebemotor_mit_Umrichter_1440x1440px_e2b612148d.webp",
+        "alt": "Motoréducteur Lenze avec variateur"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/1/csm_Lenze_m500_three-phase_AC_motors_0000013208_1440x1440px_24dfc2987a.webp",
+        "alt": "Moteurs triphasés IE3 m550-P Lenze pour fonctionnement avec variateur"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/5/csm_Lenze_Drehstrommotoren_Gruppe_1440x1440px_699773d817.webp",
+        "alt": "Moteurs triphasés Lenze"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/0/csm_Lenze_Getriebemotor_mit_Umrichter_1440x1440px_e9e107c221.webp",
+        "alt": "Motoréducteur Lenze avec variateur"
+      }
+    ]
+  },
+  {
+    "name": "Mh Netz",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/mh-netz",
+    "header_title": "Moteurs triphasés IE2 MH pour fonctionnement sur secteur",
+    "header_content": "Moteurs triphasés IE2 MH pour fonctionnement sur secteur",
+    "main_content": "Efficaces pour les tâches machine basiques et avancées. Moteur triphasé MH à haut rendement énergétique (IE2) pour des mouvements constants et variables. Plage de puissance : 0,75 à 45 kW. Plage de couple : 5,08 à 290 Nm. Convient pour un fonctionnement sur secteur économe en énergie. Avantages : Rendement énergétique IE2. Moteurs quatre pôles dans les versions B3, B5 et B14. Protection IP55. Options de connexion : boîte à bornes, prise HAN et prise ICN. Surveillance de température. Système modulaire pour adapter les fonctions à votre application. Freins de service et de maintien. Ventilateurs intégrés.",
+    "specs": {
+      "Description": "Moteur triphasé MH à haut rendement énergétique (IE2) pour des mouvements constants et variables. Convient pour un fonctionnement sur secteur économe en énergie."
+    },
+    "regex": "MH",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/1/csm_Lenze_AC_Motors_MD-MH-MF_0000000721_1440x1440_ffc831506b.webp",
+        "alt": "Moteurs triphasés Lenze MD/MH pour fonctionnement avec variateur et sur secteur"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/1/csm_Lenze_AC_Motors_MD-MH-MF_0000000721_1440x1440_3dee214579.webp",
+        "alt": "Moteurs triphasés Lenze MD/MH pour fonctionnement avec variateur et sur secteur"
+      }
+    ]
+  },
+  {
+    "name": "Md Netz",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/md-netz",
+    "header_title": "Moteurs triphasés IE1 MD pour fonctionnement sur secteur",
+    "header_content": "Moteurs triphasés IE1 MD pour fonctionnement sur secteur",
+    "main_content": "Pour les tâches machine de base. Moteur triphasé MD (IE1) pour des mouvements constants et variables. Plage de puissance : 0,12 à 22 kW. Plage de couple : 0,8 à 144 Nm. Convient pour un fonctionnement sur secteur. Avantages : Moteurs 2, 4 et 6 pôles dans les versions B3, B5 et B14. Protection IP55. Options de connexion : boîte à bornes, prise HAN et prise ICN. Surveillance de température. Système modulaire pour adapter les fonctions à votre application. Freins de service et de maintien. Ventilateurs intégrés.",
+    "specs": {
+      "Description": "Moteur triphasé MD (IE1) pour des mouvements constants et variables. Convient pour un fonctionnement sur secteur."
+    },
+    "regex": "MD",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/1/csm_Lenze_AC_Motors_MD-MH-MF_0000000721_1440x1440_ffc831506b.webp",
+        "alt": "Moteurs triphasés Lenze MD/MH pour fonctionnement avec variateur et sur secteur"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/1/csm_Lenze_AC_Motors_MD-MH-MF_0000000721_1440x1440_3dee214579.webp",
+        "alt": "Moteurs triphasés Lenze MD/MH pour fonctionnement avec variateur et sur secteur"
+      }
+    ]
+  },
+  {
+    "name": "Mh",
+    "category": "Produits antérieurs – Moteurs",
+    "url": "https://www.lenze.com/fr-fr/produits/moteurs/produits-anterieurs-moteurs/basic-md/mh",
+    "header_title": "Moteurs triphasés de base IE1 MD/IE2 MH pour fonctionnement sur secteur",
+    "header_content": "Moteurs triphasés de base IE1 MD/IE2 MH pour fonctionnement sur secteur",
+    "main_content": "Pour les tâches machine de base. Moteur triphasé de base IE1 MD/IE2 MH pour mouvement constant. Plage de puissance : 0,06 à 45 kW. Plage de couple : 0,43 à 290 Nm. Convient pour le secteur et pour les applications qui ne nécessitent pas d'accessoires montés typiques, tels que des soufflantes ou des freins. Avantages : À partir de 0,75 kW classe d'efficacité IE2. Jusqu'à 5,5 kW en moteurs 2, 4 ou 6 pôles dans les versions B3, B14 et B5. 7,5 kW et plus en moteurs 4 pôles en B3 et B5. Protection IP55. Options de connexion : boîte à bornes. Surveillance de température. Ventilateur intégré.",
+    "specs": {
+      "Description": "Moteur triphasé de base IE1 MD/IE2 MH pour mouvement constant. Convient pour le secteur et pour les applications qui ne nécessitent pas d'accessoires montés typiques, tels que des soufflantes ou des freins."
+    },
+    "regex": "MH",
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/f/csm_Lenze_AC_Motors_MD-MH_Basic_0000000568_1440x1440_2825bd81b0.webp",
+        "alt": "Moteurs triphasés de base Lenze MD/MH"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/f/csm_Lenze_AC_Motors_MD-MH_Basic_0000000568_1440x1440_b505371f2f.webp",
+        "alt": "Moteurs triphasés de base Lenze MD/MH"
+      }
+    ]
+  }
+]

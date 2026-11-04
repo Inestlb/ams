@@ -1,0 +1,831 @@
+[
+  {
+    "name": "Variateur De Vitesse I650 Motec",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-i650-motec",
+    "header_title": "Variateur de vitesse i650 motec",
+    "header_content": "Variateur de vitesse i650 motec",
+    "main_content": "Le variateur de vitesse i650 motec pour montage mural et sur le moteur, indice de protection IP66 (UL Type 4X Intérieur), est la solution d'entraînement décentralisée optimale. Pour une utilisation universelle, le variateur peut être complété par une boîte d'extension avec interrupteur de maintenance, avec ou sans protection contre les surcharges ou courts-circuits et éléments de commande. Le variateur de vitesse i650 motec se distingue du i550 motec par une gamme de fonctions étendue : Pour les tâches d'automatisation simples, un Logic PLC basé sur CODESYS et conforme à la norme CEI 61131-3 est intégré dans l'i650 motec. Un positionnement par tableau est disponible pour la réalisation d'axes et de modules de machines autonomes. L'option « Extended Safety / sécurité étendue » (système de sécurité aux fonctions diverses) complète l'ensemble. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ... Points forts Solution compacte pour une technologie d'entraînements décentralisés, montés sur un moteur ou sur un mur, avec un indice de protection élevé IP66 (UL Type 4X Intérieur) Évolution possible en montage mural : Boîte d'extension avec interrupteur de maintenance avec/sans protection contre les surcharges/courts-circuits et éléments de commande Montage rapide grâce à des connexions enfichables et standardisées (Plug & Play) Quatre ports IO-Link à fonctionnalité de maître limitée pour un échange de données aisé entre les capteurs et les actionneurs IO-Link Module de renvoi intégré pour une très grande efficacité énergétique - une résistance de freinage n'est plus nécessaire Gamme de fonctions étendue : Logic PLC, positionnement par tableau et Extended Safety / sécurité étendue Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 45 kW Raccordements 3 AC 230 V 3 AC 400 V 3 AC 480 V E/S Application : 4 x port IO-Link ou 8 x entrée numérique ou 4 x entrée numérique/4 x sortie numérique Commande du frein de maintien Surveillance de la température moteur USB-C Communication EtherCAT EtherNet/IP IO-Link Modbus TCP PROFINET En savoir plus",
+    "specs": {
+      "Points forts": [
+        "Solution compacte pour une technologie d'entraînements décentralisés, montés sur un moteur ou sur un mur, avec un indice de protection élevé IP66 (UL Type 4X Intérieur)",
+        "Évolution possible en montage mural : Boîte d'extension avec interrupteur de maintenance avec/sans protection contre les surcharges/courts-circuits et éléments de commande",
+        "Montage rapide grâce à des connexions enfichables et standardisées (Plug & Play)",
+        "Quatre ports IO-Link à fonctionnalité de maître limitée pour un échange de données aisé entre les capteurs et les actionneurs IO-Link",
+        "Module de renvoi intégré pour une très grande efficacité énergétique - une résistance de freinage n'est plus nécessaire",
+        "Gamme de fonctions étendue : Logic PLC, positionnement par tableau et Extended Safety / sécurité étendue"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 45 kW",
+          "Raccordements": "3 AC 230 V\n3 AC 400 V\n3 AC 480 V\nE/S Application : 4 x port IO-Link\nou 8 x entrée numérique\nou 4 x entrée numérique/4 x sortie numérique\nCommande du frein de maintien\nSurveillance de la température moteur\nUSB-C",
+          "Communication": "EtherCAT\nEtherNet/IP\nIO-Link\nModbus TCP\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse i650 motec pour montage mural et sur le moteur, indice de protection IP66 (UL Type 4X Intérieur), est la solution d'entraînement décentralisée optimale. Pour une utilisation universelle, le variateur peut être complété par une boîte d'extension avec interrupteur de maintenance, avec ou sans protection contre les surcharges ou courts-circuits et éléments de commande. Le variateur de vitesse i650 motec se distingue du i550 motec par une gamme de fonctions étendue : Pour les tâches d'automatisation simples, un Logic PLC basé sur CODESYS et conforme à la norme CEI 61131-3 est intégré dans l'i650 motec. Un positionnement par tableau est disponible pour la réalisation d'axes et de modules de machines autonomes. L'option « Extended Safety / sécurité étendue » (système de sécurité aux fonctions diverses) complète l'ensemble. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/6/7/csm_C16_LAN_i650_motec_7cbab8e151.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/6/7/csm_C16_LAN_i650_motec_185a647340.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse I550 Motec",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-i550-motec",
+    "header_title": "Variateur de vitesse i550 motec",
+    "header_content": "Variateur de vitesse i550 motec",
+    "main_content": "Le variateur de vitesse i550 motec pour montage mural et sur le moteur, indice de protection IP66 (UL Type 4X Intérieur), est la solution d'entraînement décentralisée optimale. Pour une utilisation universelle, le variateur peut être complété par une boîte d'extension avec interrupteur de maintenance, avec ou sans protection contre les surcharges ou courts-circuits et éléments de commande. Ce variateur se distingue par un montage rapide, une mise en service facile grâce à des outils conviviaux et des connecteurs enfichables classiques du marché. Les paramètres, le comportement de l'entraînement et la convivialité d'utilisation sont conformes à nos variateurs de vitesse reconnus. Complétée par une efficacité énergétique élevée, nous proposons ainsi une solution d'entraînement moderne et durable. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ... Points forts Solution compacte pour une technologie d'entraînements décentralisés, montés sur un moteur ou sur un mur, avec un indice de protection élevé IP66 (UL Type 4X Intérieur) Évolution possible en montage mural : Boîte d'extension avec interrupteur de maintenance avec/sans protection contre les surcharges/courts-circuits et éléments de commande Montage rapide grâce à des connexions enfichables et standardisées (Plug & Play) Quatre ports IO-Link à fonctionnalité de maître limitée pour un échange de données aisé entre les capteurs et les actionneurs IO-Link Module de renvoi intégré pour une très grande efficacité énergétique - une résistance de freinage n'est plus nécessaire Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 45 kW Raccordements 3 AC 230 V 3 AC 400 V 3 AC 480 V E/S Standard : 4 x entrée numérique ou 3 x entrée numérique/1 x sortie numérique E/S Application : 4 x port IO-Link ou 8 x entrée numérique ou 4 x entrée numérique/4 x sortie numérique Commande du frein de maintien Surveillance de la température moteur USB-C Communication EtherCAT EtherNet/IP IO-Link Modbus TCP PROFINET En savoir plus",
+    "specs": {
+      "Points forts": [
+        "Solution compacte pour une technologie d'entraînements décentralisés, montés sur un moteur ou sur un mur, avec un indice de protection élevé IP66 (UL Type 4X Intérieur)",
+        "Évolution possible en montage mural : Boîte d'extension avec interrupteur de maintenance avec/sans protection contre les surcharges/courts-circuits et éléments de commande",
+        "Montage rapide grâce à des connexions enfichables et standardisées (Plug & Play)",
+        "Quatre ports IO-Link à fonctionnalité de maître limitée pour un échange de données aisé entre les capteurs et les actionneurs IO-Link",
+        "Module de renvoi intégré pour une très grande efficacité énergétique - une résistance de freinage n'est plus nécessaire"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 45 kW",
+          "Raccordements": "3 AC 230 V\n3 AC 400 V\n3 AC 480 V\nE/S Standard : 4 x entrée numérique\nou 3 x entrée numérique/1 x sortie numérique\nE/S Application : 4 x port IO-Link\nou 8 x entrée numérique\nou 4 x entrée numérique/4 x sortie numérique\nCommande du frein de maintien\nSurveillance de la température moteur\nUSB-C",
+          "Communication": "EtherCAT\nEtherNet/IP\nIO-Link\nModbus TCP\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse i550 motec pour montage mural et sur le moteur, indice de protection IP66 (UL Type 4X Intérieur), est la solution d'entraînement décentralisée optimale. Pour une utilisation universelle, le variateur peut être complété par une boîte d'extension avec interrupteur de maintenance, avec ou sans protection contre les surcharges ou courts-circuits et éléments de commande. Ce variateur se distingue par un montage rapide, une mise en service facile grâce à des outils conviviaux et des connecteurs enfichables classiques du marché. Les paramètres, le comportement de l'entraînement et la convivialité d'utilisation sont conformes à nos variateurs de vitesse reconnus. Complétée par une efficacité énergétique élevée, nous proposons ainsi une solution d'entraînement moderne et durable. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/a/csm_C16_LAN_i550_motec_f8342119ea.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/a/csm_C16_LAN_i550_motec_9f1e58de47.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse I510 Cabinet",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-i510-cabinet",
+    "header_title": "Variateur de vitesse i510 cabinet",
+    "header_content": "Variateur de vitesse i510 cabinet",
+    "main_content": "Le variateur de vitesse i510 cabinet est un appareil compact d'armoire électrique avec des fonctionnalités évolutives. Il est polyvalent, fiable et facile à commander. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, pompes, ventilateurs, mélangeurs, ... Points forts Le design compact de 60 mm de largeur (jusqu'à 4 kW) et de 130 mm de profondeur (jusqu'à 11 kW) permet de gagner de la place dans l'armoire électrique Des possibilités d'interaction innovantes (par exemple via WiFi) permettent de réaliser une mise en service en un temps record et un diagnostic particulièrement convivial Particulièrement facile à utiliser Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 15 kW Raccordements 1 AC 230 V 3 AC 230 V 3 AC 400 V 3 AC 480 V 5x entrée numérique 1x sortie numérique 2x entrée analogique 1x ‌sortie analogique 1x relais NO/NC Communication CANopen Modbus RTU",
+    "specs": {
+      "Points forts": [
+        "Le design compact de 60 mm de largeur (jusqu'à 4 kW) et de 130 mm de profondeur (jusqu'à 11 kW) permet de gagner de la place dans l'armoire électrique",
+        "Des possibilités d'interaction innovantes (par exemple via WiFi) permettent de réaliser une mise en service en un temps record et un diagnostic particulièrement convivial",
+        "Particulièrement facile à utiliser"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 15 kW",
+          "Raccordements": "1 AC 230 V\n3 AC 230 V\n3 AC 400 V\n3 AC 480 V\n5x entrée numérique\n1x sortie numérique\n2x entrée analogique\n1x ‌sortie analogique\n1x relais NO/NC",
+          "Communication": "CANopen\nModbus RTU"
+        }
+      },
+      "Description": "Le variateur de vitesse i510 cabinet est un appareil compact d'armoire électrique avec des fonctionnalités évolutives. Il est polyvalent, fiable et facile à commander. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, pompes, ventilateurs, mélangeurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_C02_LAN_i510_cabinet_Frequenzumrichter_i510_cabinet_209de796d9.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/2/f/csm_C02_GRU_i510_cabinet_Frequenzumrichter_i510_cabinet_4afc720aa7.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_C02_LAN_i510_cabinet_Frequenzumrichter_i510_cabinet_a4e7d448ab.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/2/f/csm_C02_GRU_i510_cabinet_Frequenzumrichter_i510_cabinet_d8efe43b0a.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse I550 Cabinet",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-i550-cabinet",
+    "header_title": "Variateur de vitesse i550 cabinet",
+    "header_content": "Variateur de vitesse i550 cabinet",
+    "main_content": "Le variateur de vitesse i550 cabinet est un appareil d'armoire électrique compact avec des fonctionnalités évolutives. Il est polyvalent, fiable et facile à commander. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ... Points forts Le design compact de 60 mm de largeur (jusqu'à 4 kW) et de 130 mm de profondeur (jusqu'à 11 kW) permet de gagner de la place dans l'armoire électrique Des possibilités d'interaction innovantes (par exemple via WiFi) permettent de réaliser une mise en service en un temps record et un diagnostic particulièrement convivial Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1) Pour une flexibilité maximale, il est disponible en tant qu'appareil complet ou en composants individuels (module de puissance, module de commande et module de sécurité) Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 132 kW Raccordements 1 AC 120 V 1 AC 230 V 3 AC 230 V 3 AC 400 V 3 AC 480 V 5x entrée numérique 1x sortie numérique 2x entrée analogique 1x ‌sortie analogique 1x relais NO/NC Bus courant continu Surveillance de la température moteur Communication CANopen EtherCAT EtherNet/IP IO-Link Modbus RTU Modbus TCP POWERLINK PROFIBUS PROFINET",
+    "specs": {
+      "Points forts": [
+        "Le design compact de 60 mm de largeur (jusqu'à 4 kW) et de 130 mm de profondeur (jusqu'à 11 kW) permet de gagner de la place dans l'armoire électrique",
+        "Des possibilités d'interaction innovantes (par exemple via WiFi) permettent de réaliser une mise en service en un temps record et un diagnostic particulièrement convivial",
+        "Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1)",
+        "Pour une flexibilité maximale, il est disponible en tant qu'appareil complet ou en composants individuels (module de puissance, module de commande et module de sécurité)"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 132 kW",
+          "Raccordements": "1 AC 120 V\n1 AC 230 V\n3 AC 230 V\n3 AC 400 V\n3 AC 480 V\n5x entrée numérique\n1x sortie numérique\n2x entrée analogique\n1x ‌sortie analogique\n1x relais NO/NC\nBus courant continu\nSurveillance de la température moteur",
+          "Communication": "CANopen\nEtherCAT\nEtherNet/IP\nIO-Link\nModbus RTU\nModbus TCP\nPOWERLINK\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse i550 cabinet est un appareil d'armoire électrique compact avec des fonctionnalités évolutives. Il est polyvalent, fiable et facile à commander. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/d/csm_C04_LAN_i550_cabinet_Frequenzumrichter_i550_cabinet_f991286d49.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/c/csm_C04_GRU_i550_cabinet_Frequenzumrichter_i550_cabinet_7c32f03afd.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/d/csm_C04_LAN_i550_cabinet_Frequenzumrichter_i550_cabinet_1afe34acb9.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/c/csm_C04_GRU_i550_cabinet_Frequenzumrichter_i550_cabinet_261320feb0.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse I550 Protec",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-i550-protec",
+    "header_title": "Variateur de vitesse i550 protec",
+    "header_content": "Variateur de vitesse i550 protec",
+    "main_content": "Le variateur de vitesse i550 protec primé est conçu sur la technologie reconnue de la version en armoire électrique, et il diffère uniquement par un indice de protection plus élevé et une conception adaptée. S'il n'y a pas assez de place dans l'armoire électrique ou si le variateur doit être monté à proximité du moteur dans différents modules machine, cet appareil polyvalent et fiable est alors la bonne solution. Grâce à la boîte d'extension , il est possible d'utiliser un interrupteur de maintenance et des éléments de commande. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ... Points forts Entraînement décentralisé avec interface IO-Link V1.1 Une interface de diagnostic intégrée (micro USB) pour des interventions de maintenance Versions avec ou sans interrupteur de réparation, avec clavier ou module WLAN pour une mise en service facile. Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1) Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 75 kW Raccordements 1 AC 120 V 1 AC 230 V 3 AC 230 V 3 AC 400 V 3 AC 480 V 3 AC 600 V 5x entrée numérique 1x sortie numérique 2x entrée analogique 1x ‌sortie analogique 1x relais NO/NC Bus courant continu Surveillance de la température moteur Micro USB Communication CANopen EtherCAT EtherNet/IP IO-Link Modbus RTU Modbus TCP PROFINET",
+    "specs": {
+      "Points forts": [
+        "Entraînement décentralisé avec interface IO-Link V1.1",
+        "Une interface de diagnostic intégrée (micro USB) pour des interventions de maintenance",
+        "Versions avec ou sans interrupteur de réparation, avec clavier ou module WLAN pour une mise en service facile.",
+        "Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1)"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 75 kW",
+          "Raccordements": "1 AC 120 V\n1 AC 230 V\n3 AC 230 V\n3 AC 400 V\n3 AC 480 V\n3 AC 600 V\n5x entrée numérique\n1x sortie numérique\n2x entrée analogique\n1x ‌sortie analogique\n1x relais NO/NC\nBus courant continu\nSurveillance de la température moteur\nMicro USB",
+          "Communication": "CANopen\nEtherCAT\nEtherNet/IP\nIO-Link\nModbus RTU\nModbus TCP\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse i550 protec primé est conçu sur la technologie reconnue de la version en armoire électrique, et il diffère uniquement par un indice de protection plus élevé et une conception adaptée. S'il n'y a pas assez de place dans l'armoire électrique ou si le variateur doit être monté à proximité du moteur dans différents modules machine, cet appareil polyvalent et fiable est alors la bonne solution. Grâce à la boîte d'extension , il est possible d'utiliser un interrupteur de maintenance et des éléments de commande. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur, mouvements de translation, systèmes d'enroulement ou de déroulement, systèmes de levage, extrudeuses, machines d'emballage, pompes, ventilateurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/4/csm_C05_LAN_i550_protec_Frequenzumrichter_i550_protec_64ccdec3cd.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/f/6/csm_C05_GRU_i550_protec_Frequenzumrichter_i550_protec_803963aaad.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/4/csm_C05_LAN_i550_protec_Frequenzumrichter_i550_protec_659e5a316c.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/f/6/csm_C05_GRU_i550_protec_Frequenzumrichter_i550_protec_d90c90ce91.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse 8400 Stateline",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-8400-stateline",
+    "header_title": "Variateur de vitesse 8400 StateLine",
+    "header_content": "Variateur de vitesse 8400 StateLine",
+    "main_content": "Le variateur de vitesse 8400 StateLine convient pour la commande en vitesse dans le cas de mouvements simples. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : convoyeurs à renvoi d'angle, palettiseurs (intralogistique), extrudeuses (industrie des plastiques), systèmes de remplissage (industrie de l'emballage), ... Points forts Pour les systèmes d'entraînement avec ou sans bouclage vitesse Gestion intégrée de la commande de frein Fonction d'économie d'énergie avec le mode « VFC eco » Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 45 kW Raccordements 1 AC 230 V 3 AC 400 V 3 AC 480 V 5x entrée numérique 1x sortie numérique 1x entrée analogique 1x ‌sortie analogique 1x relais NO/NC Bus courant continu (types 400 V) Surveillance de la température moteur Communication CANopen EtherCAT EtherNet/IP POWERLINK PROFIBUS PROFINET Règlement-européen-sur-le-transit-des-biens-à-double-usage",
+    "specs": {
+      "Points forts": [
+        "Pour les systèmes d'entraînement avec ou sans bouclage vitesse",
+        "Gestion intégrée de la commande de frein",
+        "Fonction d'économie d'énergie avec le mode « VFC eco »"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 45 kW",
+          "Raccordements": "1 AC 230 V\n3 AC 400 V\n3 AC 480 V\n5x entrée numérique\n1x sortie numérique\n1x entrée analogique\n1x ‌sortie analogique\n1x relais NO/NC\nBus courant continu (types 400 V)\nSurveillance de la température moteur",
+          "Communication": "CANopen\nEtherCAT\nEtherNet/IP\nPOWERLINK\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse 8400 StateLine convient pour la commande en vitesse dans le cas de mouvements simples. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : convoyeurs à renvoi d'angle, palettiseurs (intralogistique), extrudeuses (industrie des plastiques), systèmes de remplissage (industrie de l'emballage), ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/d/csm_C08_LAN_8400_StateLine_Frequenzumrichter_8400_StateLine_f06049bda9.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/d/csm_C08_LAN_8400_StateLine_Frequenzumrichter_8400_StateLine_5b207b450f.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse 8400 Highline",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-8400-highline",
+    "header_title": "Variateur de vitesse 8400 HighLine",
+    "header_content": "Variateur de vitesse 8400 HighLine",
+    "main_content": "Le variateur de vitesse 8400 HighLine convient pour la commande en vitesse dans le cas de mouvements simples et de tâches de positionnement. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : tables tournantes, systèmes de stockage (intralogistique), ensacheuses (industrie de l'emballage), ... Points forts Commande de positionnement intégrée Jusqu'à 15 positionnements cible sélectionnables avec le profil de mouvement correspondant. Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1) Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 45 kW Raccordements 1 AC 230 V 3 AC 400 V 3 AC 480 V 8x entrée numérique 4x sortie numérique 2x entrée analogique 2x ‌sortie analogique 1x relais NO/NC Bus courant continu (types 400 V) Surveillance de la température moteur Communication CANopen EtherCAT EtherNet/IP POWERLINK PROFIBUS PROFINET Règlement-européen-sur-le-transit-des-biens-à-double-usage",
+    "specs": {
+      "Points forts": [
+        "Commande de positionnement intégrée",
+        "Jusqu'à 15 positionnements cible sélectionnables avec le profil de mouvement correspondant.",
+        "Fonction de sécurité « Absence sûre de couple (STO) » disponible en option avec le niveau SIL 3 (EN CEI 62061/EN CEI 61508) et le Niveau de Performance e (EN ISO 13849-1)"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 45 kW",
+          "Raccordements": "1 AC 230 V\n3 AC 400 V\n3 AC 480 V\n8x entrée numérique\n4x sortie numérique\n2x entrée analogique\n2x ‌sortie analogique\n1x relais NO/NC\nBus courant continu (types 400 V)\nSurveillance de la température moteur",
+          "Communication": "CANopen\nEtherCAT\nEtherNet/IP\nPOWERLINK\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse 8400 HighLine convient pour la commande en vitesse dans le cas de mouvements simples et de tâches de positionnement. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : tables tournantes, systèmes de stockage (intralogistique), ensacheuses (industrie de l'emballage), ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/f/csm_C09_LAN_8400_HighLine_Frequenzumrichter_8400_HighLine_f42e66a513.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/f/csm_C09_LAN_8400_HighLine_Frequenzumrichter_8400_HighLine_b41dff4d40.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse 8400 Protec",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-8400-protec",
+    "header_title": "Variateur de vitesse 8400 protec",
+    "header_content": "Variateur de vitesse 8400 protec",
+    "main_content": "Le variateur de vitesse 8400 protec est adapté à un montage mural décentralisé et il dispose d'une connectique enfichable simple. La disposition décentralisée permet de réduire considérablement la longueur des câbles moteur. Vous pouvez ainsi, par exemple, concevoir de manière claire même des architectures de machines complexes. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : tables tournantes et tables élévatrices à ciseaux (intralogistique), convoyeurs aériens (industrie automobile), ... Points forts Mise en service facile avec une connectique enfichable (Plug and Drive) Affichage par voyant LED et LED d'état Indice de protection élevé IP65 Caractéristiques et données techniques Caractéristiques techniques 0.75 ... 7.5 kW Raccordements 3 AC 400 V 3 AC 480 V 6x ou 4x entrée numérique 0x ou 2x sortie numérique 1x entrée analogique Surveillance de la température moteur Communication CANopen EtherNet/IP PROFIBUS PROFINET",
+    "specs": {
+      "Points forts": [
+        "Mise en service facile avec une connectique enfichable (Plug and Drive)",
+        "Affichage par voyant LED et LED d'état",
+        "Indice de protection élevé IP65"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.75 ... 7.5 kW",
+          "Raccordements": "3 AC 400 V\n3 AC 480 V\n6x ou 4x entrée numérique\n0x ou 2x sortie numérique\n1x entrée analogique\nSurveillance de la température moteur",
+          "Communication": "CANopen\nEtherNet/IP\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse 8400 protec est adapté à un montage mural décentralisé et il dispose d'une connectique enfichable simple. La disposition décentralisée permet de réduire considérablement la longueur des câbles moteur. Vous pouvez ainsi, par exemple, concevoir de manière claire même des architectures de machines complexes. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : tables tournantes et tables élévatrices à ciseaux (intralogistique), convoyeurs aériens (industrie automobile), ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/5/csm_C11_LAN_8400_protec_Frequenzumrichter_8400_protecc_1934a173af.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/e/csm_C11_GRU_8400_protec_Frequenzumrichter_8400_protecc_1fc45c9c91.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/3/5/csm_C11_LAN_8400_protec_Frequenzumrichter_8400_protecc_2d78ccad9e.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/9/e/csm_C11_GRU_8400_protec_Frequenzumrichter_8400_protecc_309483e956.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse 8400 Motec",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-8400-motec",
+    "header_title": "Variateur de vitesse 8400 motec",
+    "header_content": "Variateur de vitesse 8400 motec",
+    "main_content": "Le variateur de vitesse 8400 motec peut être monté de manière décentralisée sur le moteur ou sur le mur. Il est possible d'utiliser en plus un interrupteur de réparation sur le mur. La disposition décentralisée permet de réduire considérablement la longueur des câbles moteur. Vous pouvez ainsi, par exemple, concevoir de manière claire même des architectures de machines complexes. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur et mouvements de translation (intralogistique), pompes, ventilateurs, ... Points forts Mise en service facile avec une connectique enfichable (Plug and Drive) Construction compacte Indice de protection IP65 élevé avec unité interrupteur IP54 Interrupteur et potentiomètre intégrés pour une adaptation rapide de la configuration et de la vitesse et de la rampe Versions avec ou sans interrupteur de réparation pour montage mural Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 7.5 kW Raccordements 3 AC 400 V 3 AC 480 V 1x entrée numérique 2x/5x/8x sortie numérique 1x entrée analogique 0x/1x/2x sortie analogique 1x relais NO/NC Surveillance de la température moteur Communication AS-Interface CANopen EtherCAT EtherNet/IP PROFIBUS PROFINET",
+    "specs": {
+      "Points forts": [
+        "Mise en service facile avec une connectique enfichable (Plug and Drive)",
+        "Construction compacte",
+        "Indice de protection IP65 élevé avec unité interrupteur IP54",
+        "Interrupteur et potentiomètre intégrés pour une adaptation rapide de la configuration et de la vitesse et de la rampe",
+        "Versions avec ou sans interrupteur de réparation pour montage mural"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 7.5 kW",
+          "Raccordements": "3 AC 400 V\n3 AC 480 V\n1x entrée numérique\n2x/5x/8x sortie numérique\n1x entrée analogique\n0x/1x/2x sortie analogique\n1x relais NO/NC\nSurveillance de la température moteur",
+          "Communication": "AS-Interface\nCANopen\nEtherCAT\nEtherNet/IP\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse 8400 motec peut être monté de manière décentralisée sur le moteur ou sur le mur. Il est possible d'utiliser en plus un interrupteur de réparation sur le mur. La disposition décentralisée permet de réduire considérablement la longueur des câbles moteur. Vous pouvez ainsi, par exemple, concevoir de manière claire même des architectures de machines complexes. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : entraînements de convoyeur et mouvements de translation (intralogistique), pompes, ventilateurs, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/e/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_0f34cd6299.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/b/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_Motor_d902e17cb3.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/8/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_Wand_876aae0c48.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/e/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_e6b8009c13.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/b/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_Motor_9fc7729513.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/8/csm_C06_LAN_8400_motec_Frequenzumrichter_8400_motec_Wand_d98deef64d.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse Smvector Ip65",
+    "category": "Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/variateurs-de-vitesse/variateur-de-vitesse-smvector-ip65",
+    "header_title": "Variateur de vitesse SMVector IP65",
+    "header_content": "Variateur de vitesse SMVector IP65",
+    "main_content": "Avec son indice de protection élevé, le variateur de vitesse SMVector IP65 est idéalement adapté à un montage mural décentralisé. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : sites de production dans l'industrie alimentaire, entraînements dans les zones extérieures, ... Points forts Différentes versions de boîtier Affichage par voyant Indice de protection élevé IP65 Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 22 kW Raccordements 1 AC 120 V 1 AC 230 V 3 AC 230 V 3 AC 400 V 3 AC 480 V 3 AC 600 V 5x entrée numérique 1x sortie numérique 1x entrée analogique 1x ‌sortie analogique 1x relais NO/NC Communication CANopen DeviceNet EtherNet/IP LECOM Modbus RTU PROFIBUS",
+    "specs": {
+      "Points forts": [
+        "Différentes versions de boîtier",
+        "Affichage par voyant",
+        "Indice de protection élevé IP65"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 22 kW",
+          "Raccordements": "1 AC 120 V\n1 AC 230 V\n3 AC 230 V\n3 AC 400 V\n3 AC 480 V\n3 AC 600 V\n5x entrée numérique\n1x sortie numérique\n1x entrée analogique\n1x ‌sortie analogique\n1x relais NO/NC",
+          "Communication": "CANopen\nDeviceNet\nEtherNet/IP\nLECOM\nModbus RTU\nPROFIBUS"
+        }
+      },
+      "Description": "Avec son indice de protection élevé, le variateur de vitesse SMVector IP65 est idéalement adapté à un montage mural décentralisé. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Champs d'application : sites de production dans l'industrie alimentaire, entraînements dans les zones extérieures, ..."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/f/csm_C14_LAN_SMVector_IP65_Frequenzumrichter_SMVector_IP65_6dae0fa739.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/f/csm_C14_LAN_SMVector_IP65_Frequenzumrichter_SMVector_IP65_b45791fd2a.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servovariateur I750 Cabinet",
+    "category": "Servovariateurs",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/servovariateurs/servovariateur-i750-cabinet",
+    "header_title": "Servovariateur i750 cabinet",
+    "header_content": "Servovariateur i750 cabinet",
+    "main_content": "Le servovariateur i750 cabinet offre tout ce dont vous avez besoin pour une commande de mouvement précise et dynamique pour des applications multi-axes complexes. Les fonctions de sécurité avancées et la technologie monocâble permettent de réduire les coûts de câblage et simplifient la commande. Des fonctions intelligentes basées sur les données et l'IIoT offrent des concepts de commande de mouvement innovants. En tant qu'axe simple ou double, le i750 cabinet s'intègre parfaitement dans le système d'automatisation Lenze avec le système d'alimentation adapté. Associés aux systèmes de commande Lenze et à la boîte à outils logicielle d'application FAST, les avantages de cette gamme se révèlent dans de nombreuses applications. L'offre évolutive de matériel, de logiciels, de prestations d'ingénierie et de services numériques permet de soutenir la réalisation de systèmes d'automatisation de bout en bout, du cloud à l'arbre d'entraînement. Les servovariateurs [1]i950 cabinet peuvent être utilisés en tant qu'extension de puissance des servovariateurs i750 cabinet pour la plage de 22 à 110 kW. Points forts Système combiné intégré en CC Faible largeur des appareils, à partir de 50 mm pour les axes doubles Axes simples à capacité de surcharge répétée pour des courants de pointe de 5 à 64 A, axes doubles jusqu'à 32 A Sécurité fonctionnelle intégrée et technologie monocâble (OCT) Fonction d'auto-tuning pour un réglage simple et rapide des servovariateurs Caractéristiques et données techniques (modules axes) Caractéristiques techniques Axe individuel : 1.1 ... 15 kW Axe double : 1.1 ... 7.5 kW Raccordements Domaine alimentation en CC : 260 à 775 V (raccordement réseau centralisé par modules d'alimentation) 2x entrée numérique Commande du frein de maintien Surveillance de la température moteur Entrée résolveur/multicodeur pour bouclage (moteur) Communication EtherCAT Caractéristiques et données techniques (modules alimentation) Caractéristiques techniques Tension de sortie : CC Courant assigné bus CC : 30 A et 60 A Raccordements 3 AC 230 V 3 AC 400 V 3 AC 480 V Résistance de freinage 3x entrées numériques (à affectation fixe) 2x sorties numériques (à affectation fixe) i750_cabinet_multi_axis_servo_inverter",
+    "specs": {
+      "Points forts": [
+        "Système combiné intégré en CC",
+        "Faible largeur des appareils, à partir de 50 mm pour les axes doubles",
+        "Axes simples à capacité de surcharge répétée pour des courants de pointe de 5 à 64 A, axes doubles jusqu'à 32 A",
+        "Sécurité fonctionnelle intégrée et technologie monocâble (OCT)",
+        "Fonction d'auto-tuning pour un réglage simple et rapide des servovariateurs"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques (modules axes)": {
+          "Caractéristiques techniques": "Axe individuel : 1.1 ... 15 kW\nAxe double : 1.1 ... 7.5 kW",
+          "Raccordements": "Domaine alimentation en CC : 260 à 775 V\n(raccordement réseau centralisé par modules d'alimentation)\n2x entrée numérique\nCommande du frein de maintien\nSurveillance de la température moteur\nEntrée résolveur/multicodeur pour bouclage (moteur)",
+          "Communication": "EtherCAT"
+        },
+        "Caractéristiques et données techniques (modules alimentation)": {
+          "Caractéristiques techniques": "Tension de sortie : CC\nCourant assigné bus CC : 30 A et 60 A",
+          "Raccordements": "3 AC 230 V\n3 AC 400 V\n3 AC 480 V\nRésistance de freinage\n3x entrées numériques (à affectation fixe)\n2x sorties numériques (à affectation fixe)"
+        }
+      },
+      "Description": "Le servovariateur i750 cabinet offre tout ce dont vous avez besoin pour une commande de mouvement précise et dynamique pour des applications multi-axes complexes. Les fonctions de sécurité avancées et la technologie monocâble permettent de réduire les coûts de câblage et simplifient la commande. Des fonctions intelligentes basées sur les données et l'IIoT offrent des concepts de commande de mouvement innovants. En tant qu'axe simple ou double, le i750 cabinet s'intègre parfaitement dans le système d'automatisation Lenze avec le système d'alimentation adapté. Associés aux systèmes de commande Lenze et à la boîte à outils logicielle d'application FAST, les avantages de cette gamme se révèlent dans de nombreuses applications. L'offre évolutive de matériel, de logiciels, de prestations d'ingénierie et de services numériques permet de soutenir la réalisation de systèmes d'automatisation de bout en bout, du cloud à l'arbre d'entraînement. Les servovariateurs [1]i950 cabinet peuvent être utilisés en tant qu'extension de puissance des servovariateurs i750 cabinet pour la plage de 22 à 110 kW."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/3/csm_C23_LAN_i750_cabinet_e792b05d90.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/d/3/csm_C23_LAN_i750_cabinet_b5cb0d3053.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servovariateur I700 Cabinet",
+    "category": "Servovariateurs",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/servovariateurs/servovariateur-i700-cabinet",
+    "header_title": "Servovariateur i700 cabinet",
+    "header_content": "Servovariateur i700 cabinet",
+    "main_content": "Le servovariateur i700 cabinet permet de gérer des mouvements dynamiques ainsi que des applications avec plusieurs axes. Associé à l'alimentation appropriée et à nos commandes, ce système combiné d'appareils à un axe ou plusieurs axes est la bonne solution pour des applications d'automatisation. Avec nos commandes, par exemple le contrôleur c520, il est possible de réaliser facilement quasiment toutes les fonctions de commande pour le mouvement coordonné de plusieurs axes avec une dynamique élevée. Sur la base de nos modules logiciels, des commandes machine modernes et modulaires peuvent ainsi être réalisées. Pour une extension de performance du servovariateur i700 cabinet dans le domaine de 22 à 110 kW, on peut utiliser le servovariateur i950 cabinet. Points forts Système combiné intégré en CC Largeur de montage réduite, à partir de 50 mm pour un axe double Modules d'axe à capacité multiple de surcharge pour courants de crête en sortie dans une plage de 5 à 64 A, et jusqu'à 32 A pour des axes doubles Fonction d'auto-réglage pour un paramétrage simple et rapide Fonction de sécurité « Absence sûre de couple (STO) » Caractéristiques et données techniques (modules axes) Caractéristiques techniques Axe individuel : 0.75 ... 15 kW Axe double : 0.75 ... 7.5 kW Raccordements Domaine alimentation en CC : 260 à 775 V (raccordement réseau centralisé par modules d'alimentation) 2x entrée numérique Commande du frein de maintien Surveillance de la température moteur Entrée résolveur/multicodeur pour bouclage (moteur) Communication EtherCAT Caractéristiques et données techniques (modules alimentation) Caractéristiques techniques Tension de sortie : CC Courant assigné bus CC : 30 A et 60 A Raccordements 3 AC 230 V 3 AC 400 V 3 AC 480 V Résistance de freinage 3 x entrées numériques (à affectation fixe) 2 x sorties numériques (à affectation fixe) Règlement-européen-sur-le-transit-des-biens-à-double-usage",
+    "specs": {
+      "Points forts": [
+        "Système combiné intégré en CC",
+        "Largeur de montage réduite, à partir de 50 mm pour un axe double",
+        "Modules d'axe à capacité multiple de surcharge pour courants de crête en sortie dans une plage de 5 à 64 A, et jusqu'à 32 A pour des axes doubles",
+        "Fonction d'auto-réglage pour un paramétrage simple et rapide",
+        "Fonction de sécurité « Absence sûre de couple (STO) »"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques (modules axes)": {
+          "Caractéristiques techniques": "Axe individuel : 0.75 ... 15 kW\nAxe double : 0.75 ... 7.5 kW",
+          "Raccordements": "Domaine alimentation en CC : 260 à 775 V\n(raccordement réseau centralisé par modules d'alimentation)\n2x entrée numérique\nCommande du frein de maintien\nSurveillance de la température moteur\nEntrée résolveur/multicodeur pour bouclage (moteur)",
+          "Communication": "EtherCAT"
+        },
+        "Caractéristiques et données techniques (modules alimentation)": {
+          "Caractéristiques techniques": "Tension de sortie : CC\nCourant assigné bus CC : 30 A et 60 A",
+          "Raccordements": "3 AC 230 V\n3 AC 400 V\n3 AC 480 V\nRésistance de freinage\n3 x entrées numériques (à affectation fixe)\n2 x sorties numériques (à affectation fixe)"
+        }
+      },
+      "Description": "Le servovariateur i700 cabinet permet de gérer des mouvements dynamiques ainsi que des applications avec plusieurs axes. Associé à l'alimentation appropriée et à nos commandes, ce système combiné d'appareils à un axe ou plusieurs axes est la bonne solution pour des applications d'automatisation. Avec nos commandes, par exemple le contrôleur c520, il est possible de réaliser facilement quasiment toutes les fonctions de commande pour le mouvement coordonné de plusieurs axes avec une dynamique élevée. Sur la base de nos modules logiciels, des commandes machine modernes et modulaires peuvent ainsi être réalisées. Pour une extension de performance du servovariateur i700 cabinet dans le domaine de 22 à 110 kW, on peut utiliser le servovariateur i950 cabinet."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/2/csm_C20_LAN_i700_cabinet_Servoumrichter_i700_cabinet_d79bfa76cc.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/6/csm_C20_GRU_i700_cabinet_Servoumrichter_i700_cabinet_1d860d163d.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/2/csm_C20_LAN_i700_cabinet_Servoumrichter_i700_cabinet_9996633568.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/7/6/csm_C20_GRU_i700_cabinet_Servoumrichter_i700_cabinet_5a740b0818.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servovariateur I950 Cabinet",
+    "category": "Servovariateurs",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/servovariateurs/servovariateur-i950-cabinet",
+    "header_title": "Servovariateur i950 cabinet",
+    "header_content": "Servovariateur i950 cabinet",
+    "main_content": "Le servovariateur intelligent i950 cabinet peut s'intégrer simplement dans des solutions de machines modulaires, sur la base des applications technologiques préparées – paramétrage au lieu de programmation. Sur la base d'une expérience de plusieurs décennies en matière d'application, avec une architecture similaire, une ingénierie identique et l'utilisation d'un même logiciel d'applications, on fait disparaître la barrière entre commande de mouvements centralisée ou décentralisée. Notre outil FAST pour logiciel d'applications devient utilisable de manière cohérente. Si nécessaire, les modules logiciels pré-élaborés peuvent être très facilement adaptés et complétés en fonction du client. En outre, dans le système d'automatisation de Lenze, le servovariateur i950 cabinet sert d'extension de performance du servovariateur i750 cabinet, dans le domaine de 22 à 110 kW. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Points forts Applications technologiques préparées, par ex. Table Positioning (positionnement plateau), Electronic Gearbox (régulation électronique), Winder (enrouleur) Technologie monocâble (OCT) Évolutivité modulaire pour système de bouclage et couplages de bus de terrain Fonction d'auto-réglage pour un paramétrage simple et rapide Système de sécurité intégré équipé de nombreuses fonctions, remplit les exigences jusqu'à SIL 3/PL e Cat. 4 Caractéristiques et données techniques Caractéristiques techniques 0.37 ... 110 kW Raccordements 1 AC 230 V 3 AC 230 V 3 AC 400 V 3 AC 480 V 4x entrée numérique 1x sortie numérique 1x entrée analogique Entrées sécurisées pour connexion de capteurs de sécurité Sorties sécurisées pour une information d'état sûre Bus courant continu Surveillance de la température moteur Entrée résolveur/multicodeur pour bouclage (moteur) Entrée résolveur/multicodeur pour retour (charge) Technologie monocâble (OCT) par HIPERFACE DSL® Connexion de systèmes codeurs de sécurité Communication EtherCAT Ethernet EtherNet/IP PROFINET Bus de sécurité FSoE Bus de sécurité PROFIsafe sur PROFINET Fonctionnement avec API de sécurité",
+    "specs": {
+      "Points forts": [
+        "Applications technologiques préparées, par ex. Table Positioning (positionnement plateau), Electronic Gearbox (régulation électronique), Winder (enrouleur)",
+        "Technologie monocâble (OCT)",
+        "Évolutivité modulaire pour système de bouclage et couplages de bus de terrain",
+        "Fonction d'auto-réglage pour un paramétrage simple et rapide",
+        "Système de sécurité intégré équipé de nombreuses fonctions, remplit les exigences jusqu'à SIL 3/PL e Cat. 4"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.37 ... 110 kW",
+          "Raccordements": "1 AC 230 V\n3 AC 230 V\n3 AC 400 V\n3 AC 480 V\n4x entrée numérique\n1x sortie numérique\n1x entrée analogique\nEntrées sécurisées pour connexion de capteurs de sécurité\nSorties sécurisées pour une information d'état sûre\nBus courant continu\nSurveillance de la température moteur\nEntrée résolveur/multicodeur pour bouclage (moteur)\nEntrée résolveur/multicodeur pour retour (charge)\nTechnologie monocâble (OCT) par HIPERFACE DSL®\nConnexion de systèmes codeurs de sécurité",
+          "Communication": "EtherCAT\nEthernet\nEtherNet/IP\nPROFINET\nBus de sécurité FSoE\nBus de sécurité PROFIsafe sur PROFINET\nFonctionnement avec API de sécurité"
+        }
+      },
+      "Description": "Le servovariateur intelligent i950 cabinet peut s'intégrer simplement dans des solutions de machines modulaires, sur la base des applications technologiques préparées – paramétrage au lieu de programmation. Sur la base d'une expérience de plusieurs décennies en matière d'application, avec une architecture similaire, une ingénierie identique et l'utilisation d'un même logiciel d'applications, on fait disparaître la barrière entre commande de mouvements centralisée ou décentralisée. Notre outil FAST pour logiciel d'applications devient utilisable de manière cohérente. Si nécessaire, les modules logiciels pré-élaborés peuvent être très facilement adaptés et complétés en fonction du client. En outre, dans le système d'automatisation de Lenze, le servovariateur i950 cabinet sert d'extension de performance du servovariateur i750 cabinet, dans le domaine de 22 à 110 kW. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/8/csm_C21_LAN_i950_cabinet_FServoumrichter_i950_cabinet_825a2da36c.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/3/csm_C21_GRU_i950_cabinet_Servoumrichter_i950_cabinet_b31a6f95c2.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/8/csm_C21_LAN_i950_cabinet_FServoumrichter_i950_cabinet_7f22e4b4bd.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/e/3/csm_C21_GRU_i950_cabinet_Servoumrichter_i950_cabinet_46a19b80fd.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Servovariateur 9400 Highline",
+    "category": "Servovariateurs",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/servovariateurs/servovariateur-9400-highline",
+    "header_title": "Servovariateur 9400 HighLine",
+    "header_content": "Servovariateur 9400 HighLine",
+    "main_content": "Le servovariateur 9400 HighLine est destiné aux mouvements précis et dynamiques et est convaincant pour des applications à un ou plusieurs axes pour des tâches complexes. Le concept très élaboré de montage permet une installation et un montage simples des appareils. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Points forts Entrée résolveur et entrée multicodeur universelle Compatible avec les moteurs synchrones et asynchrones Fonctionnalité facilement adaptable grâce au raccordement des blocs fonction Fonctions technologiques très diversifiées et librement configurables, par exemple pour positionnements par tableaux, commandes de positionnement, réducteur électronique, came Fonctions de sécurité évolutives Caractéristiques et données techniques Caractéristiques techniques Single Drive : 0.37 à 240 kW Multi Drive : 0.37 à 30 kW Raccordements 3 x 230 V en CA (Single Drive) 3 x 400 V en CA (Single Drive) 3 x 480 V en CA (Single Drive) Résistance de freinage (Single Drive) Raccordement moteur (Single Drive/Multi Drive) 9x entrée numérique 4x sortie numérique 2x entrée analogique 2x ‌sortie analogique Entrées sécurisées pour connexion de capteurs de sécurité Sorties sécurisées pour une information d'état sûre Commande du frein de maintien Entrée résolveur pour bouclage (moteur) Entrée multicodeur pour bouclage (moteur) ou comme système supplémentaire de mesure de course Connexion de systèmes codeurs de sécurité Communication CANopen DeviceNet EtherCAT Ethernet EtherNet/IP PROFIBUS PROFINET Bus de sécurité FSoE Bus de sécurité PROFIsafe sur PROFINET Fonctionnement avec API de sécurité Règlement-européen-sur-le-transit-des-biens-à-double-usage",
+    "specs": {
+      "Points forts": [
+        "Entrée résolveur et entrée multicodeur universelle",
+        "Compatible avec les moteurs synchrones et asynchrones",
+        "Fonctionnalité facilement adaptable grâce au raccordement des blocs fonction",
+        "Fonctions technologiques très diversifiées et librement configurables, par exemple pour positionnements par tableaux, commandes de positionnement, réducteur électronique, came",
+        "Fonctions de sécurité évolutives"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "Single Drive : 0.37 à 240 kW\nMulti Drive : 0.37 à 30 kW",
+          "Raccordements": "3 x 230 V en CA (Single Drive)\n3 x 400 V en CA (Single Drive)\n3 x 480 V en CA (Single Drive)\nRésistance de freinage (Single Drive)\nRaccordement moteur (Single Drive/Multi Drive)\n9x entrée numérique\n4x sortie numérique\n2x entrée analogique\n2x ‌sortie analogique\nEntrées sécurisées pour connexion de capteurs de sécurité\nSorties sécurisées pour une information d'état sûre\nCommande du frein de maintien\nEntrée résolveur pour bouclage (moteur)\nEntrée multicodeur pour bouclage (moteur) ou comme système supplémentaire de mesure de course\nConnexion de systèmes codeurs de sécurité",
+          "Communication": "CANopen\nDeviceNet\nEtherCAT\nEthernet\nEtherNet/IP\nPROFIBUS\nPROFINET\nBus de sécurité FSoE\nBus de sécurité PROFIsafe sur PROFINET\nFonctionnement avec API de sécurité"
+        }
+      },
+      "Description": "Le servovariateur 9400 HighLine est destiné aux mouvements précis et dynamiques et est convaincant pour des applications à un ou plusieurs axes pour des tâches complexes. Le concept très élaboré de montage permet une installation et un montage simples des appareils. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/e/csm_C22_LAN_i9400_HighLine_Servoumrichter_i9400_HighLine_e7ac8deedb.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/0/csm_C22_GRU_i9400_HighLine_Servoumrichter_i9400_HighLine_1ae74fe047.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/a/e/csm_C22_LAN_i9400_HighLine_Servoumrichter_i9400_HighLine_5106fc3ec1.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/0/csm_C22_GRU_i9400_HighLine_Servoumrichter_i9400_HighLine_db5225ff33.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "Variateur De Vitesse 8400 Topline",
+    "category": "Servovariateurs",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/servovariateurs/variateur-de-vitesse-8400-topline",
+    "header_title": "Variateur de vitesse 8400 TopLine",
+    "header_content": "Variateur de vitesse 8400 TopLine",
+    "main_content": "Le variateur de vitesse 8400 TopLine, doté de caractéristiques d'asservissement servo, convient pour des mouvements dynamiques. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées. Points forts Commande servo avec bouclage, également pour les moteur synchrones Bus d'axe pour arbre électrique Fonction de sécurité « Absence sûre de couple (STO) » en option Caractéristiques et données techniques Caractéristiques techniques 0.25 ... 45 kW Raccordements 1 AC 230 V 3 AC 400 V 3 AC 480 V Bus CC 455 à 775 V (modèle 3 x 400/480 V en CA) Résistance de freinage Raccordement moteur 8x entrée numérique 4x sortie numérique 2x entrée analogique 2x ‌sortie analogique 1x relais NO/NC Entrées sécurisées pour connexion de capteurs de sécurité Sorties sécurisées pour une information d'état sûre Entrée résolveur pour bouclage (moteur) Entrée multicodeur pour bouclage (moteur) ou comme système supplémentaire de mesure de course Communication Bus d'axe CANopen EtherCAT EtherNet/IP POWERLINK PROFIBUS PROFINET Règlement-européen-sur-le-transit-des-biens-à-double-usage",
+    "specs": {
+      "Points forts": [
+        "Commande servo avec bouclage, également pour les moteur synchrones",
+        "Bus d'axe pour arbre électrique",
+        "Fonction de sécurité « Absence sûre de couple (STO) » en option"
+      ],
+      "Caractéristiques techniques": {
+        "Caractéristiques et données techniques": {
+          "Caractéristiques techniques": "0.25 ... 45 kW",
+          "Raccordements": "1 AC 230 V\n3 AC 400 V\n3 AC 480 V\nBus CC 455 à 775 V (modèle 3 x 400/480 V en CA)\nRésistance de freinage\nRaccordement moteur\n8x entrée numérique\n4x sortie numérique\n2x entrée analogique\n2x ‌sortie analogique\n1x relais NO/NC\nEntrées sécurisées pour connexion de capteurs de sécurité\nSorties sécurisées pour une information d'état sûre\nEntrée résolveur pour bouclage (moteur)\nEntrée multicodeur pour bouclage (moteur) ou comme système supplémentaire de mesure de course",
+          "Communication": "Bus d'axe\nCANopen\nEtherCAT\nEtherNet/IP\nPOWERLINK\nPROFIBUS\nPROFINET"
+        }
+      },
+      "Description": "Le variateur de vitesse 8400 TopLine, doté de caractéristiques d'asservissement servo, convient pour des mouvements dynamiques. Les exigences de la directive Écoconception, norme EN IEC 61800-9-2, sont respectées."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/1/csm_C10_LAN_8400_TopLine_Frequenzumrichter_8400_TopLine_e9173a01f2.webp",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/c/1/csm_C10_LAN_8400_TopLine_Frequenzumrichter_8400_TopLine_a5d506be12.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "name": "8400 Baseline",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/8400-baseline",
+    "header_title": "Variateur de vitesse 8400 BaseLine",
+    "header_content": "Variateur de vitesse 8400 BaseLine",
+    "main_content": "Apportez un mouvement contrôlé à des applications de base avec les variateurs de fréquence 8400 BaseLine. Caractéristiques techniques : Alimentation : 1 AC 230/240 V : 0,25 à 2,2 kW / 1,7 à 9,5 A, Alimentation : 3 AC 400/500 V : 0,37 à 3,0 kW / 1,3 à 7,3 A. Particulièrement adapté pour : entraînements de convoyeur, pompes et ventilateurs. Avantages : Raccordements : démarrage/arrêt, entrée analogique, entrées et sorties numériques librement programmables (4/1), Communication : CANopen, en option, Mise en service rapide et facile, Protection intégrée contre les surcharges moteur.",
+    "specs": {
+      "Description": "Variateurs de fréquence 8400 BaseLine pour mouvement contrôlé avec communication."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/1/csm_Lenze_Frequency_Inverters_8400_BaseLine_0000001837_1440x1440_01_4e2b9b7753.webp",
+        "alt": "Variateur de fréquence Lenze 8400 BaseLine"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/0/1/csm_Lenze_Frequency_Inverters_8400_BaseLine_0000001837_1440x1440_01_db0d00b061.webp",
+        "alt": "Variateur de fréquence Lenze 8400 BaseLine"
+      }
+    ]
+  },
+  {
+    "name": "Ecs",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/ecs",
+    "header_title": "Servovariateurs ECS",
+    "header_content": "Servovariateurs ECS",
+    "main_content": "Rendez vos applications multi-axes très dynamiques avec les servovariateurs de la série ECS pour un mouvement contrôlé et dynamique. Courant de sortie : 2 à 20 A (1,1 à 13,8 kW). Particulièrement adapté pour : dispositifs de prélèvement ou systèmes portiques dans le domaine de la robotique, systèmes de remplissage dans l'industrie de l'emballage. Avantages : Raccordements : démarrage/arrêt, entrée analogique, entrées et sorties numériques librement programmables (4/1), Communication : CANopen, DeviceNet, EtherCAT, INTERBUS, PROFIBUS, Modules d'axe capables de surcharges multiples pour des courants de crête en sortie entre 4 et 64 A, Versions d'appareil basées sur les fonctions, Fonction de sécurité STO.",
+    "specs": {
+      "Description": "Servovariateurs de la série ECS pour un mouvement contrôlé et dynamique. Courant de sortie : 2 à 20 A (1,1 à 13,8 kW). Particulièrement adapté pour : dispositifs de prélèvement ou systèmes portiques dans le domaine de la robotique, systèmes de remplissage dans l'industrie de l'emballage."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/7/csm_Lenze_Servo_Inverters_ECS_0000002373_1440x1440_e56358c2b3.webp",
+        "alt": "Servovariateur Lenze ECS"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/4/7/csm_Lenze_Servo_Inverters_ECS_0000002373_1440x1440_b7827f721c.webp",
+        "alt": "Servovariateur Lenze ECS"
+      }
+    ]
+  },
+  {
+    "name": "9300",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/9300",
+    "header_title": "Servovariateurs 9300",
+    "header_content": "Servovariateurs 9300",
+    "main_content": "L'entraînement intelligent pour les machines modulaires. Les entraînements intelligents de la gamme 9300 sont idéalement adaptés pour contrôler indépendamment des sous-processus au sein d'une machine. À partir d'applications standard préconfigurées, des extensions individuelles sont faciles à mettre en œuvre à l'aide de blocs fonctionnels librement connectables, ce qui réduit la charge du système de contrôle et facilite la conception modulaire des machines. Les servovariateurs de la série 9300 peuvent être utilisés universellement dans la plage de puissance de 0,37 à 75 kW. Pour répondre aux exigences les plus diverses en termes de technologie servo, les quatre versions suivantes sont disponibles : servovariateur 9300, contrôleur de position 9300, came électronique 9300, contrôleur de registre 9300. L'utilisation d'une interface utilisateur uniforme réduit les besoins en formation. Le personnel n'a besoin d'apprendre qu'un seul système, qui peut ensuite être utilisé pour toutes les applications. Les modules de communication AIF enfichables permettent également une intégration facile dans les systèmes de bus de terrain courants. Les appareils sont disponibles en option avec la fonction intégrée « absence sûre de couple ».",
+    "specs": {
+      "Description": "Les entraînements intelligents de la gamme 9300 sont idéalement adaptés pour contrôler indépendamment des sous-processus au sein d'une machine. À partir d'applications standard préconfigurées, des extensions individuelles sont faciles à mettre en œuvre à l'aide de blocs fonctionnels librement connectables, ce qui réduit la charge du système de contrôle et facilite la conception modulaire des machines. Les servovariateurs de la série 9300 peuvent être utilisés universellement dans la plage de puissance de 0,37 à 75 kW."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Servo_Inverters_9300_PLC_0000001649_1440x1440_d852dad504.webp",
+        "alt": "Lenze 9300 Servo PLC / Servovariateur 9300"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Servo_Inverters_9300_PLC_0000001649_1440x1440_94ca729a9e.webp",
+        "alt": "Lenze 9300 Servo PLC / Servovariateur 9300"
+      }
+    ]
+  },
+  {
+    "name": "9300 Plc",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/9300-plc",
+    "header_title": "Servovariateurs 9300 PLC",
+    "header_content": "Servovariateurs 9300 PLC",
+    "main_content": "Servovariateur puissant avec PLC intégré. Les servo-contrôleurs intelligents et librement programmables sont les éléments clés pour une compilation efficace de concepts de machines modulaires dans des installations complexes. Le servovariateur 9300 PLC est une version du servovariateur de la série 9300 dans la plage de puissance de 0,37 à 75 kW. Le servovariateur 9300 PLC se distingue par son extrême flexibilité et sa capacité d'intégration. Il peut être librement programmé dans les langages de la norme CEI 61131-3. Si vous souhaitez disposer de fonctions de bibliothèque sur mesure pour des tâches machine complexes, les unités de servovariateur 9300 PLC sont le bon choix. Les appareils sont disponibles en option avec la fonction intégrée « absence sûre de couple ».",
+    "specs": {
+      "Description": "Servovariateur puissant avec PLC intégré, idéal pour les applications complexes nécessitant une programmation personnalisée."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Servo_Inverters_9300_PLC_0000001649_1440x1440_d852dad504.webp",
+        "alt": "Lenze 9300 Servo PLC / Servovariateur 9300"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Servo_Inverters_9300_PLC_0000001649_1440x1440_94ca729a9e.webp",
+        "alt": "Lenze 9300 Servo PLC / Servovariateur 9300"
+      }
+    ]
+  },
+  {
+    "name": "9300 Vector",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/9300-vector",
+    "header_title": "Variateurs de fréquence 9300 vector",
+    "header_content": "Variateurs de fréquence 9300 vector",
+    "main_content": "Variateurs de fréquence pour applications complexes. La gamme de variateurs de fréquence 9300 vector est également parfaitement équipée pour gérer des applications complexes, telles que des déploiements dans des systèmes de dosage, de remplissage et d'avance, ainsi que des entraînements de bobinage. L'utilisation de blocs fonctionnels librement interconnectables signifie que des fonctions de contrôle et de régulation supplémentaires peuvent également être exécutées – de manière similaire à un PLC – parallèlement à la tâche d'entraînement réelle. Cela allège la charge des systèmes de contrôle de niveau supérieur, qui dans certains cas peuvent même être entièrement supprimés. Une interface utilisateur pratique simplifie la manipulation. Des configurations de base prédéfinies accélèrent le processus de mise en service. Un niveau d'équipement standard complet et un portefeuille d'accessoires adaptés, tels que des modules de communication, complètent le programme dans la plage de puissance de 0,37 à 90 kW. Les appareils sont disponibles en option avec la fonction intégrée « absence sûre de couple ».",
+    "specs": {
+      "Description": "Variateurs de fréquence pour applications complexes, avec fonctions avancées de contrôle et de régulation."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/2/6/csm_Lenze_Frequency_Inverters_9300_vector_0000001650_1440x1440_65a1a6f84a.webp",
+        "alt": "Variateurs de fréquence Lenze 9300 vector"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/2/6/csm_Lenze_Frequency_Inverters_9300_vector_0000001650_1440x1440_cac9098d55.webp",
+        "alt": "Variateurs de fréquence Lenze 9300 vector"
+      }
+    ]
+  },
+  {
+    "name": "8200 Vector",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/8200-vector",
+    "header_title": "Variateurs de fréquence 8200 vector",
+    "header_content": "Variateurs de fréquence 8200 vector",
+    "main_content": "Variateurs de fréquence modulaires pour applications standard. Complet avec tout ce dont vous avez besoin pour une utilisation, une manipulation, un diagnostic et une communication pratiques. C'est ce que représente la gamme modulaire de variateurs de fréquence 8200 vector dans la plage de puissance de 0,25 à 90 kW. Les modules de fonction enfichables permettent une intégration parfaitement adaptée du 8200 vector dans l'architecture de contrôle et d'automatisation de votre machine ou installation. Leurs dimensions compactes vous permettent d'économiser de l'espace dans votre armoire électrique. Pour des concepts de refroidissement individuels, nous proposons les modèles à « technique traversante » et « technique plaque froide ». Les unités sont exploitées soit via une console de commande Keypad XT enfichable, soit via un PC en connexion avec le logiciel d'exploitation pratique et gratuit Global Drive Control easy.",
+    "specs": {
+      "Description": "Variateurs de fréquence modulaires pour applications standard, avec fonction enfichables pour une intégration parfaite dans les architectures d'automatisation."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_Lenze_Frequency_Inverters_8200_vector_0000001679_1440x1440_36ee477447.webp",
+        "alt": "Variateur Lenze 8200 vector"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/b/e/csm_Lenze_Frequency_Inverters_8200_vector_0000001679_1440x1440_981322b1e1.webp",
+        "alt": "Variateur Lenze 8200 vector"
+      }
+    ]
+  },
+  {
+    "name": "8200 Motec",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/8200-motec",
+    "header_title": "Variateurs de fréquence 8200 motec",
+    "header_content": "Variateurs de fréquence 8200 motec",
+    "main_content": "Variateur de fréquence pour applications décentralisées. Idéalement équipé pour gérer des tâches d'entraînement décentralisées – les robustes variateurs de fréquence 8200 motec avec un indice de protection élevé et disponibles dans la plage de puissance de 0,25 à 7,5 kW. Ils peuvent être installés dans un endroit facilement accessible sur le châssis de la machine à proximité du moteur. Leur alimentation électrique est isolée de l'électronique d'entraînement via des contacts enfichables. Si des travaux de maintenance doivent être effectués, il suffit de desserrer quatre vis pour remplacer le dissipateur thermique avec toute l'électronique. Les modules de fonction intégrables permettent une intégration parfaitement adaptée du 8200 motec dans l'architecture de contrôle et d'automatisation de votre machine ou installation. Le 8200 motec est apparenté au variateur de fréquence 8200 vector pour l'installation en armoire électrique. Le fonctionnement, les diagnostics, les fonctionnalités et le comportement d'entraînement sont tous uniformes et cohérents. Cela offre des avantages pour les concepts combinés centralisés/décentralisés. L'unité est exploitée soit via la console de commande Keypad XT, soit via un PC en connexion avec le logiciel d'exploitation pratique et gratuit GDC easy.",
+    "specs": {
+      "Description": "Variateur de fréquence pour applications décentralisées, avec indice de protection élevé pour montage directement sur le châssis machine."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/typo3conf/ext/imi_lenze_theme/Resources/Public/Icons/external-link.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Frequency_Inverters_8200_motec_0000001744_1440x1440_01_7f46e055f5.webp",
+        "alt": "Variateur Lenze 8200 motec"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/8/9/csm_Lenze_Frequency_Inverters_8200_motec_0000001744_1440x1440_01_34db0be8fd.webp",
+        "alt": "Variateur Lenze 8200 motec"
+      }
+    ]
+  },
+  {
+    "name": "Smd",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/smd",
+    "header_title": "Variateurs de fréquence SMD",
+    "header_content": "Variateurs de fréquence SMD",
+    "main_content": "Contrôlez les vitesses facilement avec les variateurs de fréquence de la série SMD pour un mouvement contrôlé. Plage de puissance : 0,25 à 22 kW (1,3 à 46 A). Particulièrement adaptés pour : entraînements de convoyeur dans le domaine de l'intralogistique et entraînements de pompe. Avantages : Raccordements : démarrage/arrêt, entrée analogique, entrées et sorties numériques librement programmables (3/1), Mise en service rapide et facile, Protection intégrée contre les surcharges moteur, Affichage LED clairement lisible.",
+    "specs": {
+      "Description": "Variateurs de fréquence de la série SMD pour un mouvement contrôlé. Plage de puissance : 0,25 à 22 kW (1,3 à 46 A). Particulièrement adaptés pour : entraînements de convoyeur dans le domaine de l'intralogistique et entraînements de pompe."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/7/csm_Lenze_Frequency_Inverters_SMD_0000001756_1440x1440_1e084e9cba.webp",
+        "alt": "Variateurs de fréquence Lenze SMD"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/1/7/csm_Lenze_Frequency_Inverters_SMD_0000001756_1440x1440_affaa95131.webp",
+        "alt": "Variateurs de fréquence Lenze SMD"
+      }
+    ]
+  },
+  {
+    "name": "Ocu",
+    "category": "Produits antérieurs - Variateurs de vitesse",
+    "url": "https://www.lenze.com/fr-fr/produits/variateurs/produits-anterieurs-variateurs-de-vitesse/ocu",
+    "header_title": "Contrôleurs moteur série OCU",
+    "header_content": "Contrôleurs moteur série OCU",
+    "main_content": "Unité de contrôle aérien décentralisée (OCU) pour les entraînements de translation, de levage, de préhension et pivotants, ainsi que les convoyeurs aériens monorails. Le degré élevé d'automatisation dans les systèmes complets de convoyeurs aériens monorails est tout simplement inconcevable sans des systèmes de contrôle innovants. Dans les systèmes de transport sur rail, ils sont responsables du contrôle de la vitesse et du contrôle sans contact des moteurs asynchrones. L'unité de contrôle aérien (OCU) combine l'électronique d'intelligence et de puissance requise à cet effet dans un boîtier robuste. Le système est conçu de telle manière que vous pouvez également faire fonctionner plusieurs moteurs via une seule unité. Parallèlement au contrôle de bloc standard d'un PLC système, l'OCU contrôle également la distance entre les véhicules d'un convoyeur aérien monorail. Les paramètres peuvent être saisis individuellement. Toutes les données pertinentes pour les opérations, telles que les informations de destination, peuvent être échangées directement via des contacts glissants. Des transmissions inductives de données et d'énergie sont également possibles. Des ajustements pour gérer des tâches futures peuvent être mis en œuvre à tout moment en modifiant la programmation dans la norme ouverte CEI 61131-3.",
+    "specs": {
+      "Description": "Unité de contrôle aérien décentralisée (OCU) pour les systèmes de convoyage et de manutention automatisés."
+    },
+    "images": [
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/3/csm_Lenze_Motor_Controllers_ICU_OCU_0000011739_1440x1440_01_c49a5b9599.webp",
+        "alt": "Contrôleur moteur décentralisé Lenze (OCU)"
+      },
+      {
+        "url": "https://www.lenze.com/fileadmin/_processed_/5/3/csm_Lenze_Motor_Controllers_ICU_OCU_0000011739_1440x1440_01_dd5fdceb41.webp",
+        "alt": "Contrôleur moteur décentralisé Lenze (OCU)"
+      }
+    ]
+  }
+]
