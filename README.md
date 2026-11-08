@@ -20,6 +20,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Envoi des formulaires de contact
+
+Les formulaires de la page Contact et du bouton flottant transmettent leurs messages via `/api/contact` au même [formulaire Formspree](https://formspree.io/f/mbggvjok). Le destinataire `contact@amsalgerie.com` est configuré dans Formspree. Pour vérifier la réception, envoyez un message depuis chaque formulaire, puis vérifiez que les deux courriels arrivent et que l’adresse saisie apparaît en répondant.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:

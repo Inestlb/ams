@@ -16,7 +16,15 @@ const brands = [
 export default function HeroSection() {
   const { t } = useTranslation();
   const heroTitle = t('home.hero.title');
-  const titleParts = heroTitle.split('UTC');
+  const titleParts = heroTitle.split('AMS Algérie');
+  const heroSubtitle = t('home.hero.subtitle');
+  const subtitleBreak = heroSubtitle.indexOf('industrielle.');
+  const subtitleLead = subtitleBreak >= 0
+    ? heroSubtitle.slice(0, subtitleBreak + 'industrielle.'.length)
+    : heroSubtitle;
+  const subtitleRest = subtitleBreak >= 0
+    ? heroSubtitle.slice(subtitleBreak + 'industrielle.'.length).trimStart()
+    : '';
 
   return (
     <section className="relative min-h-screen overflow-hidden bg-[#0b2f4f] text-white">
@@ -34,7 +42,7 @@ export default function HeroSection() {
             >
               {titleParts.length > 1 ? (
                 <>
-                  {titleParts[0]}<span className="text-[#e47925]">UTC</span>{titleParts.slice(1).join('UTC')}
+                  {titleParts[0]}<span className="text-[#e47925]">AMS Algérie</span>{titleParts.slice(1).join('AMS Algérie')}
                 </>
               ) : (
                 heroTitle
@@ -54,7 +62,8 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.25 }}
             >
-              {t('home.hero.subtitle')}
+              {subtitleLead}
+              {subtitleRest && <><br />{subtitleRest}</>}
             </m.p>
 
             <m.div
@@ -100,7 +109,6 @@ export default function HeroSection() {
                           className={`max-h-14 w-auto object-contain transition-[filter] duration-200 ${item.name === 'IFM' ? '!max-h-[72px]' : 'group-hover:brightness-0 group-hover:invert'}`}
                         />
                       </div>
-                      <p className="text-xs uppercase tracking-[0.18em] text-[#5d7081] transition-colors duration-200 group-hover:text-white/60">{t(item.labelKey)}</p>
                     </Link>
                   ))}
                 </div>

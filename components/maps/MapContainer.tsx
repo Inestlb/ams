@@ -11,16 +11,16 @@ interface MapContainerProps {
 }
 
 export default function MapContainer({
-  markerTitle = 'UTC Industrie',
-  address = '450 Rue Baden Powell, Espace Optimum, 34000 Montpellier',
-  phone = '+1 (234) 567-890',
-  email = 'info@industrialexport.com',
+  markerTitle = 'Sarl AMS ALGERIE',
+  address = '136 Lot F2 Ext Boudjemaa Temime 1 – Draria – 16000 ALGER-',
+  phone = '05.60.21.55.52 / 06.99.02.64.77',
+  email = 'contact@amsalgerie.com',
   latitude,
   longitude
 }: MapContainerProps) {
   const mapsUrl = getGoogleMapsUrl(address);
   const embedUrl = getGoogleMapsEmbedUrl(address, latitude, longitude);
-  const phoneHref = `tel:${phone.replace(/[^\d+]/g, '')}`;
+  const phoneHref = `tel:${phone.split('/')[0].replace(/[^\d+]/g, '')}`;
 
   return (
     <div className="relative h-full w-full overflow-hidden bg-[#f4f7f8]">

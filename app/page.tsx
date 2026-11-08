@@ -7,7 +7,7 @@ import HomeMotionProvider from "@/components/home/HomeMotionProvider";
 import { getPartners } from "@/data/partners";
 
 export const metadata: Metadata = {
-  title: "UTC - Solutions Industrielles",
+  title: "AMS Algérie - Solutions Industrielles",
   description: "Découvrez nos solutions industrielles innovantes pour optimiser vos processus de production.",
 };
 
