@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
 export const metadata = {
-  title: 'Partenaires | UTC Industrie',
-  description: 'Découvrez les partenaires industriels UTC Industrie : Lenze, WAGO et IFM.',
+  title: 'Partenaires | AMS Algérie',
+  description: 'Découvrez les partenaires industriels AMS Algérie : Lenze, WAGO et IFM.',
 };
 
 const partners = [
@@ -46,7 +46,7 @@ export default function PartnersPage() {
                 Partenaires
               </h1>
               <p className="mt-6 max-w-2xl text-base leading-relaxed text-[#39495a] md:text-lg">
-                UTC Industrie travaille avec des fabricants reconnus pour proposer des composants fiables,
+                AMS Algérie travaille avec des fabricants reconnus pour proposer des composants fiables,
                 disponibles et adaptés aux contraintes des environnements industriels.
               </p>
             </aside>

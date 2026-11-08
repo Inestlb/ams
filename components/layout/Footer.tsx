@@ -32,10 +32,10 @@ export default function Footer() {
             <Link href="/" className="flex items-center">
               <Image
                 src="/images/LOGO-UTC.svg"
-                alt="UTC Logo"
-                width={220}
-                height={220}
-                className="h-24 w-auto"
+                alt="Logo AMS Algérie"
+                width={1200}
+                height={276}
+                className="h-auto w-[340px] max-w-full"
                 quality={100}
               />
             </Link>
@@ -75,7 +75,7 @@ export default function Footer() {
                 <span>Site réalisé par <a href="https://www.linkedin.com/in/inès-talbi-015b18114" target="_blank" rel="noopener noreferrer" className="hover:text-white/80 transition-colors">Inès Talbi</a></span>
               </div>
               <p className="text-xs text-white/50">
-                © {new Date().getFullYear()} UTC Industrie
+                © {new Date().getFullYear()} AMS Algérie
               </p>
             </div>
           </div>

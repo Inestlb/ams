@@ -193,17 +193,15 @@ export default function Navbar() {
           {/* Left section: Logo and main navigation */}
           <div className="flex items-center">
             {/* Logo */}
-            <Link href="/" className="flex items-center mr-12">
-              <div className="flex items-center justify-center -mt-2">
-                <Image
-                  src="/images/LOGO-UTC.svg"
-                  alt="UTC Logo"
-                  width={200}
-                  height={200}
-                  priority={true}
-                  className={`w-auto transition-all duration-500 ${isScrolled ? 'h-[81px]' : 'h-[98px]'}`}
-                />
-              </div>
+            <Link href="/" className="flex shrink-0 items-center md:mr-8 lg:mr-12">
+              <Image
+                src="/images/LOGO-UTC.svg"
+                alt="Logo AMS Algérie"
+                width={1200}
+                height={276}
+                priority={true}
+                className="h-11 w-auto md:h-13"
+              />
             </Link>
 
             {/* Main navigation links (desktop only) */}
