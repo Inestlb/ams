@@ -65,8 +65,8 @@ const translations: Translations = {
     ar: 'توزيع صناعي، أتمتة ومحركات'
   },
   'home.hero.subtitle': {
-    fr: 'Votre partenaire de confiance pour l\'exportation industrielle. Nous connectons vos lignes de production aux meilleurs équipements Lenze, IFM et WAGO.',
-    ar: 'شريكك الموثوق للتصدير الصناعي. نربط خطوط إنتاجك بأفضل تجهيزات Lenze وIFM وWAGO.'
+    fr: 'Votre partenaire de confiance pour vos projets. Nous connectons vos lignes de production aux meilleurs équipements Lenze, IFM et WAGO.',
+    ar: 'شريكك الموثوق لمشاريعك. نربط خطوط إنتاجك بأفضل تجهيزات Lenze وIFM وWAGO.'
   },
   'home.hero.cta': {
     fr: 'Demander un devis',
@@ -233,8 +233,8 @@ const translations: Translations = {
     ar: 'يو تي سي للصناعة'
   },
   'footer.description': {
-    fr: 'Fournisseur de produits industriels de haute qualité pour l\'exportation mondiale depuis 1985.',
-    ar: 'مورد منتجات صناعية عالية الجودة للتصدير العالمي منذ عام 1985'
+    fr: 'Fournisseur de produits industriels de haute qualité depuis 1985.',
+    ar: 'مورد منتجات صناعية عالية الجودة منذ عام 1985'
   },
   'footer.quickLinks': {
     fr: 'Liens Rapides',

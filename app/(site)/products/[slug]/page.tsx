@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: ProductDetailPageProps): Prom
   const displayTitle = product.header_title || product.name;
 
   return {
-    title: `${displayTitle} | Entreprise d'Exportation Industrielle`,
+    title: `${displayTitle} | Solutions industrielles`,
     description: product.description,
   };
 }

@@ -44,9 +44,9 @@ const blogPosts = [
 
       <p>Ces améliorations se traduisent directement par des économies de coûts et une productivité accrue pour nos clients.</p>
 
-      <h2>Disponibilité Mondiale</h2>
+      <h2>Disponibilité</h2>
 
-      <p>La nouvelle gamme de pompes sera disponible dans le monde entier à partir du 1er juillet 2023. Notre réseau de distribution mondial assure une livraison rapide et un support local dans plus de 50 pays.</p>
+      <p>La nouvelle gamme de pompes sera disponible à partir du 1er juillet 2023.</p>
 
       <p>Pour les clients disposant d'équipements existants, nous proposons des packages de mise à niveau complets et des options de reprise pour faciliter la transition vers notre nouvelle technologie.</p>
 
@@ -91,14 +91,14 @@ const blogPosts = [
   {
     id: 4,
     slug: 'international-trade-challenges',
-    title: 'Naviguer dans les Défis du Commerce International en 2023',
-    excerpt: 'Un guide complet pour surmonter les obstacles courants dans le commerce mondial d\'équipements industriels.',
+    title: 'Bien choisir ses équipements industriels',
+    excerpt: 'Les critères à examiner avant de choisir un équipement pour votre installation.',
     date: '5 mars 2023',
     author: 'Robert Johnson',
     authorRole: 'Directeur Général',
-    category: 'Commerce Mondial',
+    category: 'Équipements industriels',
     imageUrl: '/images/blog/trade.jpg',
-    content: `<p>Le commerce international d'équipements industriels présente des défis uniques, de la conformité réglementaire aux complexités logistiques. Ce guide fournit des stratégies pratiques pour réussir sur les marchés mondiaux.</p>`,
+    content: `<p>Avant de choisir un équipement industriel, vérifiez sa compatibilité avec votre installation, ses conditions de fonctionnement et ses besoins de maintenance.</p>`,
     relatedPosts: [2, 3, 6]
   },
   {
@@ -147,7 +147,7 @@ export async function generateMetadata({ params }: BlogPostPageProps) {
   }
 
   return {
-    title: `${post.title} | Blog de l'Entreprise d'Exportation Industrielle`,
+    title: `${post.title} | Blog industriel`,
     description: post.excerpt,
   };
 }

@@ -19,8 +19,8 @@ interface ProductsPageProps {
 }
 
 export const metadata = {
-  title: 'Tous les produits | Entreprise d\'Exportation Industrielle',
-  description: 'Parcourez notre catalogue de produits industriels de haute qualité pour l\'exportation mondiale',
+  title: 'Tous les produits | Solutions industrielles',
+  description: 'Parcourez notre catalogue de produits industriels de haute qualité',
 };
 
 export default async function ProductsPage({ searchParams }: ProductsPageProps) {
