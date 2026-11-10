@@ -16,7 +16,7 @@ export default function AboutPage() {
             <div className="space-y-6 text-lg leading-relaxed text-[#39495a]">
               <p>
                 Fondée en 2006, AMS Algérie est une entreprise familiale qui s'est imposée comme
-                un acteur national de référence dans l'importation et la distribution de solutions
+                un acteur national de référence dans la distribution de solutions
                 industrielles en Algérie.
               </p>
               <p>
