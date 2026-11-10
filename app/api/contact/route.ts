@@ -1,44 +1,36 @@
-import { NextResponse } from 'next/server';
 import { z } from 'zod';
-import type { ContactFormData } from '@/lib/types';
 
 const contactSchema = z.object({
-  name: z.string().min(2, { message: "Name must be at least 2 characters" }),
-  email: z.string().email({ message: "Invalid email address" }),
-  subject: z.string().min(5, { message: "Subject must be at least 5 characters" }),
-  message: z.string().min(10, { message: "Message must be at least 10 characters" }),
+  name: z.string().trim().min(2).max(120),
+  email: z.string().trim().email().max(254),
+  subject: z.string().trim().min(5).max(200).regex(/^[^\r\n]+$/),
+  message: z.string().trim().min(10).max(5000),
 });
 
 export async function POST(request: Request) {
-  try {
-    const body: ContactFormData = await request.json();
+  const result = contactSchema.safeParse(await request.json().catch(() => null));
+  if (!result.success) {
+    return Response.json({ error: result.error.format() }, { status: 400 });
+  }
 
-    // Validate form data
-    const result = contactSchema.safeParse(body);
-    if (!result.success) {
-      return NextResponse.json(
-        { error: result.error.format() },
-        { status: 400 }
-      );
+  try {
+    const response = await fetch('https://formspree.io/f/mbggvjok', {
+      method: 'POST',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+      },
+      signal: AbortSignal.timeout(10_000),
+      body: JSON.stringify(result.data),
+    });
+
+    if (!response.ok) {
+      throw new Error(`Formspree rejected the submission (HTTP ${response.status})`);
     }
 
-    // In a real application, you would:
-    // 1. Store the message in a database
-    // 2. Send an email notification
-    // 3. Possibly integrate with a CRM system
-
-    // For now, we'll just simulate a successful submission
-    await new Promise(resolve => setTimeout(resolve, 1000));
-
-    return NextResponse.json({
-      success: true,
-      message: 'Your message has been received. We will contact you shortly.'
-    });
+    return Response.json({ success: true });
   } catch (error) {
-    console.error('Contact form error:', error);
-    return NextResponse.json(
-      { error: 'Failed to process contact form' },
-      { status: 500 }
-    );
+    console.error('Contact email failed:', error);
+    return Response.json({ error: 'Failed to send contact email' }, { status: 502 });
   }
 }

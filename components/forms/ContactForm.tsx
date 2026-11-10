@@ -9,14 +9,14 @@ import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
 import { Loader2, CheckCircle2 } from 'lucide-react';
-import { ContactFormData } from '@/lib/types';
+import type { ContactFormData } from '@/lib/types';
 
 // Define the form schema with zod
 const formSchema = z.object({
-  name: z.string().min(2, { message: 'Le nom doit contenir au moins 2 caractères' }),
-  email: z.string().email({ message: 'Veuillez entrer une adresse email valide' }),
-  subject: z.string().min(5, { message: 'Le sujet doit contenir au moins 5 caractères' }),
-  message: z.string().min(10, { message: 'Le message doit contenir au moins 10 caractères' }),
+  name: z.string().trim().min(2, { message: 'Le nom doit contenir au moins 2 caractères' }),
+  email: z.string().trim().email({ message: 'Veuillez entrer une adresse email valide' }),
+  subject: z.string().trim().min(5, { message: 'Le sujet doit contenir au moins 5 caractères' }),
+  message: z.string().trim().min(10, { message: 'Le message doit contenir au moins 10 caractères' }),
 });
 
 interface ContactFormProps {
@@ -41,28 +41,22 @@ export default function ContactForm({ isCompact = false, hideTitle = false, clas
     },
   });
 
-  const onSubmit = async () => {
+  const onSubmit = async (data: ContactFormData) => {
     setIsSubmitting(true);
     setError(null);
 
     try {
-      // Simulate API call
-      await new Promise(resolve => setTimeout(resolve, 1500));
-
-      // In a real app, you would send the form data to your API
-      // const response = await fetch('/api/contact', {
-      //   method: 'POST',
-      //   headers: { 'Content-Type': 'application/json' },
-      //   body: JSON.stringify(form.getValues()),
-      // });
-
-      // if (!response.ok) throw new Error('Failed to submit form');
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+      if (!response.ok) throw new Error('Failed to submit form');
 
       setIsSuccess(true);
       form.reset();
-    } catch (err) {
+    } catch {
       setError('Une erreur est survenue lors de l\'envoi de votre message. Veuillez réessayer.');
-      console.error(err);
     } finally {
       setIsSubmitting(false);
     }
@@ -102,6 +96,7 @@ export default function ContactForm({ isCompact = false, hideTitle = false, clas
                     <FormControl>
                       <Input
                         placeholder="Votre nom"
+                        maxLength={120}
                         {...field}
                         className="h-11 focus-visible:ring-orange-500"
                       />
@@ -121,6 +116,7 @@ export default function ContactForm({ isCompact = false, hideTitle = false, clas
                       <Input
                         placeholder="Votre adresse email"
                         type="email"
+                        maxLength={254}
                         {...field}
                         className="h-11 focus-visible:ring-orange-500"
                       />
@@ -140,6 +136,7 @@ export default function ContactForm({ isCompact = false, hideTitle = false, clas
                   <FormControl>
                     <Input
                       placeholder="Objet du message"
+                      maxLength={200}
                       {...field}
                       className="h-11 focus-visible:ring-orange-500"
                     />
@@ -158,6 +155,7 @@ export default function ContactForm({ isCompact = false, hideTitle = false, clas
                   <FormControl>
                     <Textarea
                       placeholder="Votre message"
+                      maxLength={5000}
                       className={`${isCompact ? 'min-h-24' : 'min-h-40'} focus-visible:ring-orange-500`}
                       {...field}
                     />

@@ -2,16 +2,14 @@ import ContactForm from '@/components/forms/ContactForm';
 import MapContainer from '@/components/maps/MapContainer';
 
 export const metadata = {
-  title: 'Contactez-nous | UTC Industrie',
+  title: 'Contactez-nous | AMS Algérie',
   description: 'Prenez contact avec notre équipe pour toute demande concernant nos produits industriels',
 };
 
 const contactLocation = {
-  address: '450 Rue Baden Powell, Espace Optimum, 34000 Montpellier',
-  phone: '+1 (234) 567-890',
-  email: 'info@industrialexport.com',
-  latitude: 43.6102441,
-  longitude: 3.9086065,
+  address: '136 Lot F2 Ext Boudjemaa Temime 1 – Draria – 16000 ALGER-',
+  phone: '05.60.21.55.52 / 06.99.02.64.77',
+  email: 'contact@amsalgerie.com',
 };
 
 export default function ContactPage() {
@@ -34,12 +32,10 @@ export default function ContactPage() {
             <div className="relative h-full min-h-[480px] overflow-hidden rounded-2xl border border-[#0b2f4f]/10 bg-white">
               <div className="h-full">
                 <MapContainer
-                  markerTitle="UTC Industrie - Espace Optimum"
+                  markerTitle="Sarl AMS ALGERIE"
                   address={contactLocation.address}
                   phone={contactLocation.phone}
                   email={contactLocation.email}
-                  latitude={contactLocation.latitude}
-                  longitude={contactLocation.longitude}
                 />
               </div>
             </div>

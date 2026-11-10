@@ -10,23 +10,23 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "UTC - Solutions Industrielles",
+  title: "AMS - Solutions Industrielles",
   description: "Fournisseur leader de produits industriels de haute qualité. Spécialiste en solutions automatisées, capteurs et technologies industrielles.",
   keywords: ["produits industriels", "automatisation", "capteurs", "solutions industrielles", "ifm", "wago", "lenze"],
-  authors: [{ name: "UTC" }],
-  creator: "UTC",
-  metadataBase: new URL('https://utc-export.com'),
+  authors: [{ name: "AMS Algérie" }],
+  creator: "AMS Algérie",
+  metadataBase: new URL('https://amsalgerie.com'),
   openGraph: {
-    title: "UTC - Solutions Industrielles",
+    title: "AMS - Solutions Industrielles",
     description: "Fournisseur leader de produits industriels de haute qualité.",
-    url: 'https://utc-export.com',
-    siteName: 'UTC',
+    url: 'https://amsalgerie.com',
+    siteName: 'AMS Algérie',
     locale: 'fr_FR',
     type: 'website',
   },
   twitter: {
     card: "summary_large_image",
-    title: "UTC - Solutions Industrielles",
+    title: "AMS - Solutions Industrielles",
     description: "Produits industriels de haute qualité",
   },
   robots: {

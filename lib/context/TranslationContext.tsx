@@ -57,8 +57,8 @@ const translations: Translations = {
 
   // Home Page
   'home.hero.title': {
-    fr: 'Solutions industrielles UTC',
-    ar: 'حلول UTC الصناعية'
+    fr: 'Solutions industrielles AMS Algérie',
+    ar: 'حلول AMS Algérie الصناعية'
   },
   'home.hero.eyebrow': {
     fr: 'Distribution industrielle, automatisme et motorisation',
@@ -77,8 +77,8 @@ const translations: Translations = {
     ar: 'عرض المنتجات'
   },
   'home.hero.network': {
-    fr: 'Réseau UTC',
-    ar: 'شبكة UTC'
+    fr: 'Réseau AMS Algérie',
+    ar: 'شبكة AMS Algérie'
   },
   'home.hero.reliableAutomation': {
     fr: 'Automatisation fiable',
@@ -229,8 +229,8 @@ const translations: Translations = {
 
   // Footer
   'footer.company': {
-    fr: 'UTC Industrie',
-    ar: 'يو تي سي للصناعة'
+    fr: 'AMS Algérie',
+    ar: 'AMS Algérie'
   },
   'footer.description': {
     fr: 'Fournisseur de produits industriels de haute qualité depuis 1985.',
